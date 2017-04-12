@@ -1,0 +1,57 @@
+ce inseamna walsh si daca jucam (cu duble check-back)
+inverted (pana unde e forcing; flota recomanda 2nt)
+1D-2C (nu GF)
+pana unde sunt forcing schimbarile de culori cu salt
+pana unde sunt forcing inversatele
+1c-1d-1h si/sau 1c-1h-1s sunt limitate/pasabile
+gazilli, structura garozzo
+bergen (de care)
+invitant cu 3 carti sa dai direct (flota joaca saltul in cealalta majora ca sa arate asta; mai e varianta: 3C=invitant cu 3 sau 4 carti)
+jacoby + continuari
+stabilit exact ce e splinter
+toate pozitiile de pas forcing (ca principiu)
+1M-pana unde jucam contra negativa
+1C-(1D)-
+ce inseamna 2c-2d-2n (daca jucam kokish, duble negativ)
+pe deschiderea de 1nt - gerber
+pe 2nt-o licitatie care sa spuna ca ai fit si una ca nu ai ( de preferat acceptul sa NEGE fit)
+pe deschiderele de 4M sa joci antiquebid (poate si la 3M)
+gambling fara stop
+contre de apel (valori convertibile) pe (semi)barajele la nivel inalt
+deschideriile de 1NT si 2NT(levate)
+1S-2H ce e exact?
+
+
+
+
+
+
+duble checkback:
+2D GF=> prioritatile sunt fit 3, fit 4 oM, culoare de 5, tinere in a 4-a culoare
+2C inv cu orice sau stop pe caro=> (cica singura exceptie e cu 4207, ceea ce mi se pare o aberatie)
+	mai exista 1x-1y-1z-2c-2d-3n e CoG 5332
+1x-1y-1z-2n => puppet pentru 3C => pas e slab;
+			orice alta culoare la tr 3 e 5+-5+ GF cu y si noua culoare (1d-1s-1n-2n-3c-3s e bicolor 5-5 pica-trefla; 1d-1s-1n-3c-3d e bicolor 5-5 pica-caro);
+			1x-1y-1z-3c-3n e 6 carti in Y fara scurtime, CoG;
+			culoriile la tr 4 sunt q-bid DE ONOR cu autofit, slam-ish => 1d-1s-1nt-4c e splinter cu scurtime de trefla si monocolor de pica
+			1x-1y-1z-2n-3c-4y nu e definit
+
+Lebensohl:
+	3s trecut prin 2nt e tot forcing dar tii cupa
+	contra e APEL, chiar si la trick-ul 2
+	
+	
+cand lipsesc 2 culori q-bid-ul e afirmativ
+cand lipseste o culoare, q-bid-ul e interogativ
+de discutat ce insemana licitatiile pe TOATE interventiile peste deschiderea noastra de NT
+
+
+
+nu imbunatatim partiale
+cine da un punt promite in plus
+flota zice ca 1c-1h-1s-2c-2h nu e bine sa fie 4315...; ca plm, 2d e 6 carti de caro
+1d-1h-1s-1n-2c 5431 cu 3 trefle si 15-17
+
+
+
+
