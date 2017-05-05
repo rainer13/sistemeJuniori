@@ -1,0 +1,15 @@
+2/1, multi
+1N-2C-2N/3C-3D/3H sunt retransferuri
+1M-x=> trsf
+checkback dublu ca nepasant
+simplu ca pasant
+semnalizari italiene
+mare place la cul, mic la NT
+num std
+Smith, mare place in toate pozitiile
+1x-(1H)-X are 4 pici
+(1x)-1M-(x)=> trsf
+(1x)-1M-(P)=> NU E trsf
+1C-(1D)-1M e cu minim 4
+
+

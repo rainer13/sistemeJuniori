@@ -1,0 +1,857 @@
+From: <Saved by Microsoft Internet Explorer 5>
+Subject: Bridge Paradoxes
+Date: Tue, 26 Apr 2005 10:37:37 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0151_01C54A4B.F72A8A10"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.rpbridge.net/4b73.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Bridge Paradoxes</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252">
+<META content=3D"MSHTML 6.00.2900.2627" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#cccccc background=3Dhttp://www.rpbridge.net/b/w5.gif>
+<CENTER><A href=3D"http://www.rpbridge.net/m/sandman.mid"><IMG=20
+src=3D"http://www.rpbridge.net/g/midi.gif" border=3D0></A> Advanced =
+Study 4B73 by=20
+Richard Pavlicek
+<P><IMG height=3D150 alt=3D"" =
+src=3D"http://www.rpbridge.net/a/gyro.gif">
+<H1><FONT color=3D#000099>Bridge Paradoxes</FONT></H1></CENTER><BR>The =
+subject of=20
+probability in bridge can be confusing to those who are not =
+mathematicians. The=20
+purpose of this study is to clear up a few of the misconceptions or =
+paradoxes=20
+that continue to confuse bridge players.
+<P><BR>
+<H2><IMG alt=3D"" src=3D"http://www.rpbridge.net/g/arrow.gif" =
+align=3Dtop><FONT=20
+color=3D#000099> Restricted Choice</FONT></H2>There are many paradoxical =
+cases=20
+related to the principle of restricted choice (or Bayes theorem if =
+you=92re a=20
+mathematician). Consider the following two card combinations:
+<P>1. <IMG alt=3D"" src=3D"http://www.rpbridge.net/g/note6.gif">=20
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD width=3D110>
+    <TD align=3Dmiddle>A J 10 7 6
+  <TR>
+    <TD>
+    <TD><IMG alt=3D"[W - E]" src=3D"http://www.rpbridge.net/u.gif">
+  <TR>
+    <TD>
+    <TD align=3Dmiddle>5 4 3 2</TR></TBODY></TABLE>
+<P>Proper play is to finesse the jack, then finesse the 10.
+<P>2. <IMG alt=3D"" src=3D"http://www.rpbridge.net/g/note6.gif">=20
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD width=3D110>
+    <TD align=3Dmiddle>A Q 10 7 6
+  <TR>
+    <TD>
+    <TD><IMG alt=3D"[W - E]" src=3D"http://www.rpbridge.net/u.gif">
+  <TR>
+    <TD>
+    <TD align=3Dmiddle>5 4 3 2</TR></TBODY></TABLE>
+<P>Proper play (for maximum) is to finesse the queen, then play the ace.
+<P>See the paradox? Each holding has the same number of cards, yet with =
+Example=20
+1 you should finesse twice, and with Example 2 you should finesse only =
+once.
+<P>The reason is that in Example 1 you are missing <I>equal</I> cards =
+(K-Q).=20
+If&nbsp;East held K-Q doubleton, he had a choice of plays =97 he could =
+win either=20
+the king or queen. In&nbsp;Example 2, if East held K-J doubleton there =
+is no=20
+such choice =97 he would always win the king.
+<P>Consider Example 1. Assume the first finesse loses to an honor, and =
+West=20
+follows low twice (else there is no problem). If&nbsp;you finesse again =
+you will=20
+succeed when East began with a singleton honor (two possible holdings).=20
+If&nbsp;you play the ace you will succeed when East began with K-Q =
+doubleton=20
+(one possible holding). Finessing twice gives you two chances instead of =
+one.
+<P>
+<CENTER><IMG alt=3D"" =
+src=3D"http://www.rpbridge.net/g/puzzle5.gif"></CENTER>
+<P>Below is a table of the relevant holdings for Example 1:
+<P>
+<CENTER>
+<TABLE cellPadding=3D8 bgColor=3D#ffffff border=3D1>
+  <TBODY>
+  <TR bgColor=3D#99ccff>
+    <TH>West
+    <TH>East
+    <TH>Probability=20
+  <TR>
+    <TD>9-8
+    <TD>K-Q
+    <TD>6.6%=20
+  <TR>
+    <TD>Q-9-8
+    <TD>K
+    <TD>6.2%=20
+  <TR>
+    <TD>K-9-8
+    <TD>Q
+    <TD>6.2%</TR></TBODY></TABLE></CENTER>
+<P>Notice that K-Q doubleton occurs slightly more often than either the=20
+singleton king or queen, but <I>combined</I> the singletons are far more =
+likely.=20
+Hence, if you finessed twice every time without even looking at East=92s =
+card, you=20
+would have a success ratio of 12.4 to 6.6. If&nbsp;you finessed just =
+once, you=20
+would be a big loser in the long run.
+<P>The classic argument against this is that once East wins, say, the =
+king, he=20
+cannot have a singleton queen. Certainly true, but the crux is that with =
+K-Q=20
+doubleton, East can tell you <I>whatever he wants</I>. When you observe =
+the king=20
+you know it was either a <I>forced</I> card with a singleton or a =
+<I>chosen</I>=20
+card from K-Q. The odds favor the forced card because he might have =
+played the=20
+other one if he had a choice.
+<P>Perhaps a better way to look at this is by <I>events</I>. When the =
+first=20
+finesse loses (and West follows low twice) there are <I>four</I> =
+possible=20
+events:
+<P>
+<CENTER>
+<TABLE cellPadding=3D8 bgColor=3D#ffffff border=3D1>
+  <TBODY>
+  <TR bgColor=3D#99ccff>
+    <TH>East Won
+    <TH>Probability=20
+  <TR>
+    <TD>King from K-Q
+    <TD>3.3%=20
+  <TR>
+    <TD>Queen from K-Q
+    <TD>3.3%=20
+  <TR>
+    <TD>King singleton
+    <TD>6.2%=20
+  <TR>
+    <TD>Queen singleton
+    <TD>6.2%</TR></TBODY></TABLE></CENTER>
+<P>The percentage apportionment of the first two events is arbitrary and =
+depends=20
+on your opponent. If&nbsp;East varies his play equally, we have the same =
+ratio=20
+in favor of finessing. For example, if we see East play the queen, the =
+odds are=20
+6.2 to 3.3 that it=92s the singleton.
+<P>For practical purposes, it makes little difference how your opponent =
+tends to=20
+play with K-Q doubleton. Any percentage lost in one event is gained in =
+another.=20
+The only exception might be against a player who <I>always</I> plays a=20
+particular card, say the king. Then, if the queen appeared, you would =
+have a=20
+lock in finessing; or if the king appeared, you would have a slight edge =
+in=20
+playing for K-Q doubleton. Nonetheless, it is foolish to consider this =
+exception=20
+since there is no way to label a player with such a habit.
+<P>Whether you accept the reasoning behind restricted choice or not, it =
+has=20
+proved to be valid in practice. Experts know this and consistently go =
+with the=20
+odds. The bottom line: <I>Always finesse twice</I> unless there are =
+overriding=20
+circumstances relating to the complete deal. Or&nbsp;to quote from a =
+late,=20
+not-so-great president, =93Trust me; I am not a crook.=94
+<P>Now look at a table of the relevant holdings for Example 2:
+<P>
+<CENTER>
+<TABLE cellPadding=3D8 bgColor=3D#ffffff border=3D1>
+  <TBODY>
+  <TR bgColor=3D#99ccff>
+    <TH>West
+    <TH>East
+    <TH>Probability=20
+  <TR>
+    <TD>9-8
+    <TD>K-J
+    <TD>6.6%=20
+  <TR>
+    <TD>J-9-8
+    <TD>K
+    <TD>6.2%</TR></TBODY></TABLE></CENTER>
+<P>The above are the only possible layouts when the queen loses to the =
+king and=20
+West follows low twice. <I>No choices</I> are involved (unless you want =
+to=20
+consider the moronic play of the jack). Clearly, playing the ace on the =
+second=20
+round is better, with odds of 6.6 to 6.2 in your favor.
+<P>Example 2 is also interesting from another perspective. Playing for =
+the=20
+maximum dictates the loss of <I>two tricks</I> if East has a singleton =
+king.=20
+If&nbsp;you can afford to lose one trick but not two, there is an =
+effective=20
+safety play: <I>Cash the ace first</I>, then return to the South hand =
+and lead=20
+toward the Q-10-7-6.
+<P>
+<CENTER><IMG alt=3D"" =
+src=3D"http://www.rpbridge.net/g/puzzle5.gif"></CENTER>
+<H2><IMG alt=3D"" src=3D"http://www.rpbridge.net/g/arrow.gif" =
+align=3Dtop><FONT=20
+color=3D#000099> Suit-Break Issues</FONT></H2>Another paradox arises out =
+of the=20
+relationship between expected suit breaks and finessing technique. For =
+instance,=20
+nearly everyone has heard the adage, =93Eight ever, nine never,=94 which =
+implies=20
+that, lacking outside information, it is correct to finesse for a queen =
+with=20
+eight cards. With nine cards you should play for the drop, as in this =
+example:
+<P>3. <IMG alt=3D"" src=3D"http://www.rpbridge.net/g/note6.gif">=20
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD width=3D110>
+    <TD align=3Dmiddle>A J 7 6 5
+  <TR>
+    <TD>
+    <TD><IMG alt=3D"[W - E]" src=3D"http://www.rpbridge.net/u.gif">
+  <TR>
+    <TD>
+    <TD align=3Dmiddle>K 4 3 2</TR></TBODY></TABLE>
+<P>Proper play is to cash the king and ace.
+<P>Next consider that four missing cards are expected to split 3-1 more =
+often=20
+than 2-2. This seems to contradict the rule. If&nbsp;a 3-1 break is =
+actually=20
+more likely, why not take the finesse? Good question.
+<P>The explanation lies in the fact that there are two ways for a suit =
+to split=20
+3-1. This is easily seen by listing the possible distributions with =
+their=20
+approximate percentages.
+<P>
+<CENTER>
+<TABLE cellPadding=3D8 bgColor=3D#ffffff border=3D1>
+  <TBODY>
+  <TR bgColor=3D#99ccff>
+    <TH>West
+    <TH>East
+    <TH>Probability=20
+  <TR>
+    <TD>0
+    <TD>4
+    <TD>5%=20
+  <TR>
+    <TD>1
+    <TD>3
+    <TD>25%=20
+  <TR>
+    <TD>2
+    <TD>2
+    <TD>40%=20
+  <TR>
+    <TD>3
+    <TD>1
+    <TD>25%=20
+  <TR>
+    <TD>4
+    <TD>0
+    <TD>5%</TR></TBODY></TABLE></CENTER>
+<P>Note that the 2-2 break is more likely than any specific 3-1 break; =
+however,=20
+the <I>combined</I> chance of a 3-1 break totals 50 percent, which is =
+the more=20
+likely occurrence.
+<P>Consider Example 3 again. After cashing the king and leading toward =
+dummy, it=20
+is presumed that West follows low twice, else there is no problem. This=20
+eliminates half of the 3-1 breaks (i.e., West cannot have a singleton), =
+which=20
+shifts the odds in favor of the 2-2 break.
+<P>Another way to explain this is by the =93available-space=94 theory, =
+which has=20
+many applications in bridge. At&nbsp;the moment of decision, West will =
+have=20
+followed twice and East only once, so East will have one extra space in =
+his=20
+hand; hence he is more likely to hold the missing queen.
+<P>A similar logic applies to:
+<P>4. <IMG alt=3D"" src=3D"http://www.rpbridge.net/g/note6.gif">=20
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD width=3D110>
+    <TD align=3Dmiddle>A Q 10 4
+  <TR>
+    <TD>
+    <TD><IMG alt=3D"[W - E]" src=3D"http://www.rpbridge.net/u.gif">
+  <TR>
+    <TD>
+    <TD align=3Dmiddle>K 3 2</TR></TBODY></TABLE>
+<P>Proper play is to cash the top honors.
+<P>Missing six cards, it is well known that a 4-2 break is more likely =
+than 3-3,=20
+so one might conclude that the finesse is correct. No, because at the =
+moment of=20
+decision West will have played three cards, thus eliminating half of the =
+4-2=20
+breaks =97 West can=92t have a doubleton when he follows three times.
+<P>The available-space theory gives the same answer. At&nbsp;crunch =
+time, West=20
+will have played three cards and East only two, so East is more likely =
+to hold=20
+the missing jack.
+<P>
+<H3><FONT color=3D#000099>Careful Now</FONT></H3>One has to be careful =
+about these=20
+situations to be alert for restricted-choice principles, which generally =
+take=20
+priority. Restricted choice applies any time a defender may have a =
+choice of=20
+plays from equivalent cards. Consider this holding, which is similar to =
+Example=20
+3:
+<P>5. <IMG alt=3D"" src=3D"http://www.rpbridge.net/g/note6.gif">=20
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD width=3D110>
+    <TD align=3Dmiddle>A 10 7 6 5
+  <TR>
+    <TD>
+    <TD><IMG alt=3D"[W - E]" src=3D"http://www.rpbridge.net/u.gif">
+  <TR>
+    <TD>
+    <TD align=3Dmiddle>K 4 3 2</TR></TBODY></TABLE>
+<P>Proper play is to cash the king. Then, if the queen or jack drops =
+from East,=20
+finesse against West for the missing honor.
+<P>Quite a difference! Because of the equality of the missing Q-J, this =
+is=20
+almost like Example 1. An&nbsp;identical table could be constructed =
+(except with=20
+Q-J instead of K-Q) to show the superiority of the finesse.
+<P>Now consider this holding, which is similar to Example 4:
+<P>6. <IMG alt=3D"" src=3D"http://www.rpbridge.net/g/note6.gif">=20
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD width=3D110>
+    <TD align=3Dmiddle>A Q 9 4
+  <TR>
+    <TD>
+    <TD><IMG alt=3D"[W - E]" src=3D"http://www.rpbridge.net/u.gif">
+  <TR>
+    <TD>
+    <TD align=3Dmiddle>K 3 2</TR></TBODY></TABLE>
+<P>Proper play is to cash the queen and king. Then, if the jack or 10 =
+drops from=20
+East, finesse against West for the missing honor.
+<P>Again, the normal technique of playing for the drop is overridden by=20
+restricted choice. In&nbsp;this case we are comparing the chances of =
+East having=20
+J-10-x, J-x or 10-x. An&nbsp;event table would look like this:
+<P>
+<CENTER>
+<TABLE cellPadding=3D8 bgColor=3D#ffffff border=3D1>
+  <TBODY>
+  <TR bgColor=3D#99ccff>
+    <TH>East Played
+    <TH>Probability=20
+  <TR>
+    <TD>Jack from J-10-x
+    <TD>3.6%=20
+  <TR>
+    <TD>10 from J-10-x
+    <TD>3.6%=20
+  <TR>
+    <TD>Jack from J-x
+    <TD>6.5%=20
+  <TR>
+    <TD>10 from 10-x
+    <TD>6.5%</TR></TBODY></TABLE></CENTER>
+<P>The 3.6 percents assume that East varies his play equally with =
+J-10-x, in=20
+which case the odds are 6.5 to 3.6 in favor of the finesse. The exact =
+odds when=20
+East plays the jack as opposed to the 10 will vary with the defender=92s =
+habits,=20
+but for practical purposes the third-round finesse is always the better =
+play.
+<P>
+<H3><FONT color=3D#000099>=93Unrestricted=94 Choice</FONT></H3>Do not =
+become so=20
+enamored with restricted choice that you are blind to reality. The =
+principles do=20
+not apply if a defender is able to falsecard without risk, as in this =
+example:
+<P>7. <IMG alt=3D"" src=3D"http://www.rpbridge.net/g/note6.gif">=20
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD width=3D110>
+    <TD align=3Dmiddle>A Q 9 5 4 3
+  <TR>
+    <TD>
+    <TD><IMG alt=3D"[W - E]" src=3D"http://www.rpbridge.net/u.gif">
+  <TR>
+    <TD>
+    <TD align=3Dmiddle>K 2</TR></TBODY></TABLE>
+<P>Proper play is to cash the top honors, <I>even if East drops the jack =
+or=20
+10</I>.
+<P>If the king catches an honor from East, it may seem correct to =
+finesse.=20
+Wrong! This is because East is not limited to a singleton honor or J-10=20
+doubleton. It&nbsp;could also be a routine falsecard from J-10-x.
+<P>
+<CENTER><A href=3D"http://www.rpbridge.net/rpbr.htm">Return to main</A>
+<P><IMG height=3D150 alt=3D"" =
+src=3D"http://www.rpbridge.net/a/gyro.gif">
+<P><FONT size=3D-1>Copyright =A9 2004 Richard Pavlicek. All rights =
+reserved.</FONT>
+<P></CENTER></P></BODY></HTML>
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.rpbridge.net/g/midi.gif
+
+R0lGODlhGAAQAPf/AAAAAIAAAACAAICAAAAAgIAAgACAgMDAwE9lfYOZsY4AAIqWZZqOXaaKVbKG
+Tb6CRct9PNd5OHW+unWuqnWinnWSjnWGgnV1cXVpZXVZVXVNSXU8OHUwLHUgHHUUEHUIBH0QCIIY
+DIocEI4kEJYoFJowGKI0GKY8HK5FILJJILpRJL5VKMddKMthLNNpMNdtMNN1ONN9PNOCRc+KSc+O
+Uc+WVcuaXcuiYcuqZceubce2cce6ecPDfcPHhsPPisPTjrbThqrTfZ7TdZbTbYrTZX3TXXHTVWnT
+UV3TSVHTQUXTODzTMDDTKCTTIBzTHDDPIEHPJFHPKGXPLHXLMIbLNJrLOKrLPLrHQc/HRd/HSe/H
+TdeuUb6aVaaGWY5xXXVdYV1JZUk0ZdfbLFVBYV1JXWVVWW1dVXVpUX1xTYZ9SY6GRZaSRZ6aQaam
+PK6uOLa6NL7DMMfPLM/XKPuKZfOaWe+mUee2RePDPNvTMDwQ2108tn1lkpqObbq2SdMsONc4NNdF
+NNdRNNddMNdpMNd1MNeCMNeOLNeaLNemLNeyLNe+KNfLKNfXKP+2efu6cfe+bfe+afPDZe/HXe/H
+WevLVevLUefPSePTRePTQd/XPNvbNNvbMNffLHWaUY6uRaa+PL7PMPN92++C0++Gy++Kw+uOuuuS
+suuWrueapueenueiluemjuOqhuOuguOyed+2cd+6ad++Yd/DWdvHVdvLTdvPRdfTPNfXNFGWMF2e
+LGmiLHGqLH2uLIayLJK6LJq+KKbHKK7LKLrPKMPXKM/bKDCWhjiafUGeeUmidVGmcVmqbWGqaWmu
+ZW2yYXW2XX26WYa6VY6+UZbDTZ7HSaLLRarPQbLPPLrTOMPXNMvbMNPfLK51abJ9ZbaCYbaKXbqO
+WbqWVb6aUb6iTcOmScOqSceyRcu2Qcu+PM/DOM/LNNPPMNPXLNfbKCiKsjSSpkGWnk2ellmiimWm
+gnGueX2ycYa6ZcHM2aCgpICAgP8AAAD/AP//AAAA//8A/wD//////yH5BAEAAP8ALAAAAAAYABAA
+QAhqAP8JHEhQID9+BRMqJMgP38KHBRsadFgQgEUCBzNmJIDPokePEBniO7jwo0mPDS2mBJlQI0mJ
+IQcSmEkTH8WYDzM+PHlS4kGTOP/BhBl0otGKPD/ySwqgpb+n/PxlvBmSplWOVBMy3coyIAA7
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.rpbridge.net/a/gyro.gif
+
+R0lGODlhZACWAPf/AP///93d3czMzO7u7oiIiGZmZlVVVURERHd3d6qqqru7u5mZmZmZZplmZv//
+zGaZZsyZmZnMmWaZmcz//2ZmM2YzM5mZzMzMmSIiIsyZzGZmmf/MzMzM/8z/zJnMzDMzADNmMzMz
+MxEAABEREQAiAJlmmSIAAAAzAGYzZjMAMzNmZjMAAAAAAP/M/2YzAAARAGZmAJlmAJlmM///mWaZ
+MzNmAJmZM//MmWaZzJnM/2bMzJmZ/5n/zMyZ/zMzZkQAAJkzAMzMZsz/mWbMmZn//wAzMwAAIgAA
+EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEA
+AAAh/h9HaWZCdWlsZGVyIDAuMy4yIGJ5IFl2ZXMgUGlndWV0ACH5BAQDAP8ALAAAAABkAJYAAAj9
+AAEIHEiwoMGDCBMqXMiwocOHEAUGEKAgosWLGDMGWGDAAIEFATKKHElS4IAECgggIMBAwICSMGM2
+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
+yAmhwoWsyI78yP8XEAA7
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.rpbridge.net/g/arrow.gif
+
+R0lGODlhJgAgAPIAAGMwMJwxMZxjY81iYs2bm/6bm/7Nzf7+/iH5BAEAAAcALAAAAAAmACAAAAPi
+eHXc/jDKI4yZOD9RTblaGAmDZy1iSnFWC6oZx32uBWPDQBIF3ds3iGxHqLWCjuGAQMgVjS9YjqQT
+MDlFHy04ZDqbS2g01AWDc+iTejzRTa0EbPxq9fiAsTf9uo/f7WxJMmZohU1wHTQuElRyjn2PgIAQ
+PAVMkJCIBAEAAAGcnpSXhIVOOlcDnaqqEpVzcZqwV56cn50BE5Y9r4+yoLafGqNeS6U5q6siw2Zm
+yKwpuz2OVrW/uDCjS83OAEjZTNzdSAzRBLfW4w2j4ekOl87tlAXV4vHum6D2Eeb1+hD9/h4kAAA7
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.rpbridge.net/g/note6.gif
+
+R0lGODlhIAAoAPcHAAAAAIAAAACAAICAAAAAgIAAgACAgMDAwMDcwKTI8FUAAKoAANUAAAArAFUr
+AIArAKorANUrAP8rAABVAFVVAIBVAKpVANVVAP9VAFWAAKqAANWAAP+AAACqAFWqAICqAKqqANWq
+AP+qAADVAFXVAIDVAKrVANXVAP/VAFX/AID/AKr/ANX/AAAAVVUAVYAAVaoAVdUAVf8AVQArVVUr
+VYArVaorVdUrVf8rVQBVVVVVVYBVVapVVdVVVf9VVQCAVVWAVYCAVaqAVdWAVf+AVQCqVVWqVYCq
+VaqqVdWqVf+qVQDVVVXVVYDVVarVVdXVVf/VVQD/VVX/VYD/Var/VdX/Vf//VVUAgKoAgNUAgP8A
+gAArgFUrgIArgKorgNUrgP8rgABVgFVVgIBVgKpVgNVVgP9VgFWAgKqAgNWAgP+AgACqgFWqgICq
+gKqqgNWqgP+qgADVgFXVgIDVgKrVgNXVgP/VgAD/gFX/gID/gKr/gNX/gP//gAAAqlUAqoAAqqoA
+qtUAqv8AqgArqlUrqoArqqorqtUrqv8rqgBVqlVVqoBVqqpVqtVVqv9VqgCAqlWAqoCAqqqAqtWA
+qv+AqgCqqlWqqoCqqqqqqtWqqv+qqgDVqlXVqoDVqqrVqtXVqv+AIAD/qlX/qoD/qqr/qtX/qv//
+qgAA1VUA1YAA1aoA1dUA1f8A1QAr1VUr1YAr1aor1dUr1f8r1QBV1VVV1YBV1apV1dVV1f9V1QCA
+1VWA1YCA1aqA1dWA1f+A1QCq1VWq1YCq1aqq1dWq1f+q1QDV1VXV1YDV1arV1dXV1f/V1QD/1VX/
+1YD/1ar/1dX/1f//1VUA/4AA/6oA/9UA/wAr/1Ur/4Ar/6or/9Ur//8r/wBV/1VV/4BV/6pV/9VV
+//9V/wCA/1WA/4CA/6qA/9WA//+A/wCq/1Wq/4Cq/6qq/9Wq//+q/wDV/1XV/4DV/6rV/9XV///V
+/1X//4D//6r////78KCgpICAgP8AAAD/AP///wAA//8A/wD//////yH5BAEAAAcALAAAAAAgACgA
+QAj8AA8IHEiwoMGDCBMiBMCQoUKDAP7tk0hxHwB+APzxw4hRYcSJICuKtDjgQMkBAwAMBIAvpMuR
+IlGqfEizJk2HBC/627mz48OPMC/y49kT48yVL5PCnCjzJlCQDaPanEq1qtWfG7NuPHozJM4DUbn+
+VJpxK8OsYgsCUOo1rEqUKdWyXfrvZFOwdOe6vHuQYd6RKdPWjNoS39eriBMrXsy4MVitPhWXhSx4
+ocTDQtFOXTsyKtrKEJeWnSwUtEDOSXVC1mj6aVDIW00ePq1X5FuTskPXDnnSZFy5f+f+Bstwd97h
+p4P/RZ4TtXKQzBc6V3rAsGnpIPFKNMw4LM2AADs=
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.rpbridge.net/u.gif
+
+R0lGODlhUABFAPcAAAAAAIAAAACZAICAAAAAgIAAgABmAICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAA//8Y7VYAv0D3vwkEAAABAAAA6O1WAP////8oAAAAAAAAAAKQ/L8AAAAApu1WAGztVgAU
+P/e/AwAAAPtB97+QlPy/6s33v5CU/L+o8VYAo+1WAAAAAABM7VYAAAAAADKhWAABAAAA4hP3v3cB
+AADFEve/AGlWAHCDVcGmLvm/4hP3v3cBAADFEve/oHEAAAgAAAAsUfe/BEQAAKjxVgAAAAAALBlp
+AAAAAAAwoVgAPwDBRkFUMzIAAABEOlwAAOTtVgAy0fe/BCTBgXjwVgCA8FYArClAAAgAAAA/AMGB
+3O1WAAACAAAIAAAAePBWAAAAAACbjfi/AAIAAETuVgB8JvN/IO5WAASldIGoKUAAcINVwSDuVgD+
+oPe/F7P3vwAAQAAAAAAAAwAAAKwpQAALAAAAqClAAIjwVgDbFPN/AABAAAAAAACsKUAACBXzfwzQ
+/X+sKUAAMSDzf6wpQADG3vN/rClAAAAAAAAEAQAAbd7zf3jwVgDc9FYAAAAAAAsAAACo7lYAnSBA
+XxQAAAB+BwAAAAAAAAoAAAA2LUAA8PRWAMTuVgDjefu/BCTBgQACAADw9FYANi1AAAoAAAA/AMGB
++O5WANz0VgA/AMGBBCTBgSgtQABCLUAAAO9WADLR978EJMGB3PRWAPL0VgAsLUAAFgAAAD8AwYH4
+7lYAAAIAABYAAADc9FYAAAAAAAzvVgAAAgAAKO9WAJ3X838AAAAAQO9WAFHwVgAAAACAOP/3v1Hw
+VgBMUFQAAwAAAAAAAAABAAAACgAAACwtQACw8lYAKC1AAITwVgDbFPN/AABAAAAAAAAsLUAACBXz
+fwzQ/X8sLUAAMSDzfywtQAAn3vN/LC1AANz0VgAAAAAACwAAAEQ6XEwDAAAAAAAAAMjvVgDgAQAA
+IAAAAGyndIGRo/e/ALBwgYyndIHgAQAAAAAAAAywcIEAsHCBbKd0gSH5BAEAAAgALAAAAABQAEUA
+AAj/ABEIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3MiRYKWPIEOKHEmypMmTIilWEsCypcuX
+MGPKnEmzZSWVNXM+2Alz54OcNW9OXAl0ps+fLn0WnSlUItGlPZUm5QkVZtOIT6u2PIqUpVStNnGC
+3cqVbNexVyFmBauUqoCvaMWOfctTKlywaR+u1WoX6V2teR3urdr359+qgRsOhvq1rtu4Q+d6dcv1
+LF65Y+GWlZyY4eKlmo9KFtB54eeid0Vzxsz28WTLgFmPnm1VNu3bpG3jnl1a4endkJ0CB9474cq/
+sA/zrVy2OMLjrlO7zsxctPODREOfVb68Os/rBrM/6NZ+m3vuyHS7bk5ffrpL8AXFq1fNnrZ5+B7N
+vqZqnrD3sOix15ZjsM3lXVf4DfTUgIYRiNuBAAr3moAOtldghFhN1dh6s92H2XocdugehmppSBl9
+9h34U4ICZYViehdSByGLCKwlXYwy/kfjb8MhpluPlwUI5Gg7DklbkUYS+WN3I8YmpIHV8bYkav8p
++WRr2/WXE5KS3WilhF1q6SSYYb642pU5mjlmhg+GGCSZbTZZFJcyRoUjUHRimaWceE4JlIpfslkm
+c1KiqSefS+WZ5JpqoeToo5Ca1NGklFZq6aWYZqrpppxmGhAAOw==
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.rpbridge.net/g/puzzle5.gif
+
+R0lGODlh5ABOAPcAAP///wD///8A/wCA////AAD/AAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAz
+MwAzZgAzmQAzzAAz/wBmAABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDM
+ZgDMmQDMzADM/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMz
+mTMzzDMz/zNmADNmMzNmZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPM
+zDPM/zP/ADP/MzP/ZjP/mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz
+/2ZmAGZmM2ZmZmZmmWZmzGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/
+AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlm
+M5lmZplmmZlmzJlm/5mZAJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/
+Zpn/mZn/zJn//8wAAMwAM8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxm
+mcxmzMxm/8yZAMyZM8yZZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/
+zMz///8AAP8AM/8AZv8Amf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m
+//+ZAP+ZM/+ZZv+Zmf+ZzP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///wAA
+AA0NDRoaGigoKDU1NUNDQ1BQUF1dXWtra3h4eIaGhpOTk6Ghoa6urru7u8nJydbW1uTk5PHx8f//
+/wAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDCH5BAEAAAAALAAAAADkAE4A
+QAj/AAEIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGAcaGMCxo4GMIEOKHEmyoIGTKE+WNLixo0uX
+H1fKlJlSpcKaMUcaKMCzp8+fP20m3Am0QMuXSJMqXTrAgICnUKNKhSpU49SrAgwQ2Mq1a86DWruK
+5WoggNmzaNOiraqxrFqzXzESLUq3rt2eR5nq3cvRKda/gANTHUu4sGGvcFFuTfm2sePHa0POvUt5
+40mjfDNrRupXMNawh0OLHi3aLeTTkONenEy5NebNmnGe9EwbMGjSuMmi3n1adUXWroPbzbvUt0Di
+MGtLTal8cO7niHlLT2ucInDh2H0ih8n2oezv3Yd+/4d4u3B4iaZ3V5/Jvr379/Djy59Pv779+3L5
+rsfPH//1yvv9hxdsBDYF3lT7AdCZbeCt1yBO0wXoWILeZWfhgAUSuGBzHDoHHWnpTSdiABRWeGF2
+22XI1IEd/iXbhzAeFuKIqJXIkICupajijh61eFV5MQYp1kk0nvUVeOSh1BZKJ96lI49N+SglkEKa
+V2SEIuHYpJP6DVWccgFu+GOVuM14JYmMGdmfdeetSROVQ4JEZGptumnnnXjmqeeefPapZ0p+Bipo
+e0/aOOihiIK1l6GJNmrSZdg5WJl4KemF00piPnUpfGm+JaGnjA5lIYX/PQkld7UFKBici90EIpbi
+Nf8WqqhbGoVTXaae2peULbK6mHG+6nYmb7PSWmuOulrKa69kWjksscfV9NuxyCb75bIcBivkSaGZ
++aynEXWn5YW5WqtUpmA2q+5Y3n4Ll5y1lmvuolNqu+6H7X5brLGjyjtvcth+Zu+90T2777TUavdv
+lAGnS/CQ7vYmWcKRdqnotQ3TNvC2ET92sEkUC1dudTqiaxtYDj8MccfgThxyayMjVKjG3pncIEsy
+yvzgd9J93F9KeC1Zp6ME2euzgiIeTfTSlHqlNNNQRy311FRXbfXVWGet9dY0wcT112uedC7YZM+X
+69Nlp+3lomq3jSnbbh+6c1Ek71yiqWhTuil/nb7/exN1Q4d7oqTDNcijknojfpNneYOFUo0Ltav0
+uHTfONzCnGms6qqGOfhqz5HL6nKkDZWK+UsmfzYU4zkPNVq+Ew4VO7yDhyegvzumHhhOqcpI8utF
+ypba6C/ThXvuGWtc2nfAszw77cXTfXqPybOuMgGwR5w35Qkfn6Hu1Wd1PfZqzcny49RZF7300zMc
+vm3jl+Vr9vqitz5Q3hcIfvgbX0+/wYK7VfHyl6zZLItb44vR/850NO4BCEPtWxGv+pdAZzlPTXI5
+Vl7EFkEJ+oiCFSTMAoMHPXJ1EDb72x0IQ0i+4PVtLWiDlAlPuCIDNgyBLOzcCJ8XHwfiCic0TOGU
+wBL4oI41LnIDXJgQk7fC3OzwSkfkV/cwt8QbhvCJNHraXGpyP56M7DvKeh/8KojFEWmxi7iyGEs8
+KMbPXPGC5SMeGhUGt4slpYpZEYoNlfdGOGIwIz6kWMxkhjGa6cx6ffSj3wA5R/yp0SRsXJVDdAen
+F+nQksJy15EAVcJGvsZSOmuQIScpMO+0DpCwepPdVikbuqEEdYFrlNFQmUqmESWKfZqlXEAXt6op
+xjwxfFAvwcbJYRrzmMhMpjKXubSAAAA7
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.rpbridge.net/b/w5.gif
+
+R0lGODdhlACUAPoAMczMzNTU1Nzc3OTk5AAAAAAAAAAAAAAAACwAAAAAlACUAAAD/yg63C3Oradq
+lTbrvTSb0QcNnIV1IQmeShCUXvrJVxSzcCnWpDznGdUqNBS2XjlX0WcbEXlNoIfzYBqlQV9N40KW
+vFbt0kjDBjdhnDm7m2y6b6Up7SSnU+sblJnvXwVdXkB3dXN3ZXlEdH06WHBYhCyHfH86k08WgoyA
+X4GQYSCGl1EdOaOkLYlEmoGeg6Che6dXbVSjEJtsNnKtrjCwW7a3opWyGBRJa3y9zJrEVbWfk8/R
+xqIwcmZWgJ7NgkiYucZ8Y8VQMZ3Optuc3M0VcKjweeCHdWrC1Z1+5PDe7yPeMFIC7J68LIWScduE
+DMc/ZibEZZDDrlw0CtDMwXmETf8KskxIvLWTGBENuYJDcLnhsDGbMl1J3rkkWayiQVThPvrzNfLX
+E50TH84kmcmiCBX9xMhrNdGjJHPuhHIhupCSySbs1EA88omeUI5HeHp9ISbfOJs7mQ4Foo7LV55M
+tRmJF87SWZRh3W1qG/Rtt7i56OLzOUtf2LXY+H77B+AryUdAX1FCC7LXl6BxFjN+SDQb1HVaCMVE
+vHCeF7BRvTX+15nqyUW00u7DzDq1X4D0qN5EKprHvMA9fakGsFrqIN2WTthLt5cV3FbEozt+hTyf
+nUWZ+Y4dCj168drJq5uiVtatq7ak02oO5P27SFvizyTHnn1jx7621Xdpz1866vj/61xFn3lqaUfg
+f830p2BjAHoUkC6K1NXXVtu9EBJjC7qnnWFuJSKgDXikY9lAI77F33n/reSIgVOkYtRB+gl3WH0l
+sqcheGIF9FlTTtUkmlis8dJNZe/ZxlliesUiRXoqCjOGejH+dWQquOnH1SsUcogZFU5IQ8qIRt4m
+ZJgs/WVSQlIueZo6R0X2YRtgiilneoBB6GZpo10YXlGgzTXmVzeKWSaFd5WEJ1s9mZHiOYOCdNic
+762XY05PMEmkmjMKxOGiqREHaZ0TpjgDOZYSqZ1wqJVqqY2fgvpojuP4Q9iBNOJnoapqBuAfpGvA
+uoSXH7l6ZaJQPrbfrnP2kR6M//OFauBawqrkYmIuICtSgSwqE2y2ItqXWX2I5lntdOa5ppU45CaZ
+VnGG9ipoh8MyIoSbqkoKXpj7cZrru6Ee6iWarKz4qanslSqQlOk6Ku+dl01L420EV8uuiN36NZC/
+F8gF78O3vqWfpzMVWfGUyg5ljk4iKOFqbR7jy1GQmbpMKInyGuKiTEe2qjOKFhsrEQXMBDrzzjrL
+PHODc6CxrnfGRUw0hc7wi/QNxXQHMslGE81Wy1NbV5+1IhstdMIdNd21kwS2VyXH+Sbb3NpnKx2q
+2i6RhqHbzeEbt7s2+ldh3zkDqVCUvsqnm2FWT/z3uHIqPBWqWKMtF8qDFlz41v9Wcx3vw6+Cad2O
+1jTZOdyKDkxi428O9jlSB95bMt5cVq65nSH2WEXruIFOLdkNj97x0eQxTHWbD7QsPOZmi8sy8MGD
+rhQGXGuJfDaX4w7Q2qNSNvxPOwTtufQjX7iWRirDjtVuf2C0DTK9BGpz7GxHhdDGhId9j1m8ZbRc
+36vNCt/0+gJgwiSUEDzQwoAS0BXd+DKY49kvaeFz3f1SByNC6EqB/ZtPNVSnNz0Qy2k482C72KBB
+LVxQgfoi4Lk6eA4LKe968ZHHUlZztQ0dpAwQ0QQmslW+rRhMWrYrXXFqSBigkMqF2xMCt76RGvmR
+aUkQcgTYmISJ/OGBJ+zgVnD/siYTasGERlOUzDFehCe8lCmCEBOIgB7mvms8Q1r9oNqDFPXC5PED
+iB8rEiIMQh6vcfBtaRwcMdRotD6uYH44MaOxEuS52UyhEvYCU3n0IaEIsUCLsmPcAwkkMBD6Io4U
+vI7+4IQpwvXHftRryQd/U5QpgZJ2x7DkFdTRkuHU8IJjqxuhAphJk5XlgM/bY7iC1phi3uiWj4Bc
+tF4HqqyIUoZl0J16colMwPRMIgVqXjShCSIynO4hGsqlHeOwu/EFsyGRAR8zb1PNQFqvYqFMSCnO
+pM51mug74lwmC522OmkGA4+6MRF0JMY0oe2LTtWrXdcw6TtW5WtBmzQV5oAV/zcm0RKcNczQjVa0
+Sh4FsaIMzRrYmNY2fQYGk8ejSkgrEyZPKQicK50nTVKaG5Y04qAEPeU47yNThshzKjTTVtWchUGX
+aoil4qhnCasTU+aM7qW8XJhSt8fHzYWLhDaFli75h8K4sGmqP1XFR5iVC3pBDVvHIqlXXULWRvhz
+eDfxKEPIJ5SxTdE5bwRqr8T6R6QBCqNhm8lSIJFUJcUHoXfbTET3IFef/mJvRuJiV2G62JTotUt2
+CevU0BO1p12zT0X0EQTH0lFyls6zkQPNz7w5LbhIlLG0cRgaPTvCNW62RmtyRl1+2FDaChWsE5Xs
+otoqMNSa9IvIAQvqZKXZb//2cGf8IOVJkwk7uGLzOemKFlROoMVoPE2Mi3zZ7JL6lLf2lmfMcyO6
+sJta31CUUaMtl8syZakd0FR2RE1vIThURRzcSUgnRG9Cy/O3/DYSlku17CFHk09Y0cG8+SHqo0J7
+OzvJwnB15N0l+IaYOF0OlP29L+4iW9oXidiJ2WlHD0v4A9rJc6q7xBiFCYg8eOLnc6tTUl9nGVVg
+dZPDeclL1FgJy3nZRKG2rZ6D+ghh2WxHmyjZYxuiwFsWC7NFTgXyXQojy/R1r0VTPtlygHOxfnJZ
+fenc0Vh7UOTQQFaMZ8YKWX1EuWdOY2FnnKss0Rdi4dG5FrGchZ7/YNHHzjH/EmFuYE+juOWkABfD
+kDHteIqACxpXldFeazQi/hvSelySLO7l8wbtLOdfaVDT3BtMj3+DZPRZZHI0KAgw7TtmYR44GcJ0
+NHFTR8Z/LjhjsDCgs6Sq0PW1mrBQJl4lxBzr8tzax8oBhepi+uC+Jluh+gV2oms3ZpuOps0nmXFv
+XnWVWPEZ1TGxapCvIZrPPHiCxbpwOUQt6vRxrEPMVuS1FUzuUG741VgFaJ0o0qxXBmi/IcLetbls
+KAl4V7xgcN6xaTrKlFUJ0HEmsHovK1vpXdnXtiteCDGL6i6DaLS7NkufGDZqIye8I4m8cw+4KW++
+SnzOcpw3nShd8jVHG83WjOa1at1N6weZkFvc/rdlBQ3QZi35fQu+iKWtfIovnrnpmSU2bDGe8oV3
+E2UVF/RbT5ZjVzMWwhl/Zr2xo4KmwnkysIU61ZUuZ5NTxu0rBwYC21prI8fVxM1+dNbF/XOMxN3M
+x0aBEW/hELI0ubbg5nfAET910QE+0Iv3snhC4/GWf323UkgAAAAAAAAAADs=
+
+------=_NextPart_000_0151_01C54A4B.F72A8A10--

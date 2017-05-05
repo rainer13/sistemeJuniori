@@ -1,0 +1,30 @@
+1D (9-14 in 1st/2nd, 8-17 in 3rd/4th; 4S; no 4H; either 4144, a 6 card minor or {a 5 card minor and a singleton or void})
+  1H/S/NT = natural
+  X=short spades, partner should respond even after [1D]-X-[1S]
+
+1H (9-14 in 1st/2nd, 8-17 in 3rd/4th; 4H; no 4S; either 4144, a 6 card minor or {a 5 card minor and a singleton or void})
+  1S/NT=natural
+  X=short hearts, responses as for our 1D opening
+
+1S (9-14 in 1st/2nd, minors, either 55 or 54 both ways)
+  2NT=majors
+  2C=hearts, stronger than 2H
+  2D=spades, stronger than 2S
+
+1N (10-14 in 1st/2nd, 14-17 in 3rd/4h)
+  your defense against weak NT
+
+against a transfer: X is takeout of the promised suit, cue-bid promises {the other major and a minor} or {both majors}
+  partner should always answer if the transfer is accepted
+
+against 2H (9-14, majors, 44 or 54 both ways)
+  X points, 2S a good hand with a minor, 3m natural, 3M asks for stop in THAT suit
+
+against 3H (9-14, )
+  3S a good hand with a minor
+  4m natural
+  3NT natural
+
+
+against 1Cl (15+ in 1st/2nd, 18+ in 3rd/4th)
+  your defense against a strong club
