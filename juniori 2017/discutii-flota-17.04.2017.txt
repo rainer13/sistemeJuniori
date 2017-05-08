@@ -1,0 +1,71 @@
+
+Contra de apel-inseamna:
+	1. absenta de licitatie naturala
+	2. partener, vreau sa joc in culoarea ta
+
+1. absenta de licitatie= in afara range-ului (8)9-15(16) hcp, cu 5 carti intr-o culoare
+	Raspunsuri:
+		->0-8(9) hcp - anunt pe nivel minim
+		->10-11 (12) hcp - culoare cu salt (chiar si in cazul culorilor in 4)
+		->1NT - 8(9)-10 hcp cu tinere in culoarea anuntata de adversar
+		->2NT - 11-12 (13) hcp cu stop in culoarea anuntata de adversar (preferabil chiar un stop jumatate)
+		->3NT - 13-15 hcp, cu un stop jumatate sau chiar 2 stopuri in culoarea anuntata de adversar
+2. (1H)-x-(p)-...-  anuntam prima culoare in 3 daca avem 5H (sau riscam si pasam; mai ales cu ei in mansa)
+
+*mic artificiu: (1D)-x-(P)-2D, 2D inseamna: 1. 12+ hcp, orice distributie
+					    2. 8-11 hcp, cu 4-4 M
+(valabil si pe dschiderea de 1C: (1C)-x-(P)-2C-)
+
+in Reveil: daca cu un K util in plus am da contra-culoare in direct, dam si acuma contra culoare
+	=> raspunsurile au alte paliere, primul fiind 0-11
+
+
+//Aici sa completez ca nu e ok. Sunt diferente daca ceva = m sau M
+NT-ul de reveil: (1 m)-p-(p)-1NT = 11-14 hcp, nu cu o distributie neaparat specifica pt NT
+			       -x, urmata ulterior de anuntul de 1NT= 15-16 hcp
+			       -2NT= 17-19 hcp
+			       -3NT= de joc
+				 (1M)-p-(p)-1NT: (11)12-16, si ar fi bine sa jucam raspunsuri diferentiate la stayman
+-continuari- system on; exemple:
+	(1H)-p-(p)-1NT-
+	(p) -2D-(p)-2H : 2D-cere stop de cupa, 2H-nu am stop de cupa; 
+     -concluzie: transferul in culoarea anuntata de adversar cere stop in culoarea respectiva; efectuarea transferului=nu am stop
+	(1H)-p-(p)-1NT
+	(p)-2C = stayman
+	   -2H = transfer de pica
+	   -2S/2NT-transfer C/D
+
+
+Interventia pe Michaels advers:
+	1.pe un bicolor precizat-jucam cuebid-uri invizibile culoarea ieftina arata culoarea ieftina, cel scump pe cea scumpa
+	2.pe un bicolor neprecizat-jucam transferuri
+1. 1M-(2NT)-> 2NT fiind cel mai frecvent bicolor minor
+	   -3C= minim invitant cu 3H
+	   -3D=minim invitant cu 3S
+	   -3H/3S= competitie
+2.transfer de la 2NT in sus (cu cat licitatia e mai joasa, cu atat fitul e mai lung->4 carti)
+exemple: 		
+1S-(2S=H+m)-2N=trefle
+		   -3C=D
+		   -3D=fit de 4, minim limit
+		   -3H=fit de 3, minim limit
+		   -3S=competitional
+1H-(2H=S+m)-2S=4 carti, minim limit
+		   -2N=trefle
+		   -3C=D
+		   -3D=fir de 3, minim invitant
+		   -3H=competitional
+		   
+1D-2D=majore=> 2H=trefle, minim invitant
+			   2S=5D, minim invitant
+			   3C e o mana constructiva cu trefle
+			   3D e competitiv
+			   
+pe 1C-(2c) e asemanator
+la fel si pe 1C-(2D=majore)
+
+1m-2N=
+		   
+
+Nota: S=pici, H=cupe, D=caro, C=trefle; ce e intre paranteze= licitatia adversarilor
+		
