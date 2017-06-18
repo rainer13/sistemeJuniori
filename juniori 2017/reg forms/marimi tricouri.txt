@@ -1,0 +1,25 @@
+gomo:
+0729123426
+
+
+akos: 		L
+anca: 		XS
+diana:		M
+andrei:		L
+alfred:		S
+rainer:		XXL
+
+
+
+open:
+meta	(agica, filimon, grigoriu, piroi)
+coldea (coldea, ionita, marina, marina)
+dacians(bacalu, ionescu, dobrin, sirb)
+1st of july (serpoi, stirbu, teodorescu, vulcan)
+spaima( darie, darie, dumitrascu, marcu)
+contra (briciu, ghigheci, filip, iepure)
+1 over 2 (chipail, constantinescu, ...)
+
+
+romania (fey, toma, gradinariu, mincu)
+valacchia  (fulga, baluna, popescu, marculetiu, stancescu, taciuc)
