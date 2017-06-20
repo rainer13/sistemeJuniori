@@ -1,29 +1,38 @@
-checkback
-1d-2d
-salturi peste deschiderea de 1m
 diferenta dintre 1d-1s-1n-2c-2d-3c si 1d-1s-1n-3c
-1m-1x-2n
-ce facem pe inversate si 2n moderator
 secvente de genul 1c-1s-2c-2h si 1c-1s-2c-2d; 1d-1s-2d-2h
+a 3-a forcing
 1d-1n-2n si 1c-1s ce fac cu 15-17 nebal; i.e. al meu nu are M4 pe deschiderea de 1m si vreau sa joc 3n cu 15-17 nebal pe 8-10
-drury
-X/XX suport
-ELC
 1D-(1H)-1S-P-2D ce e
 1c-1d-1h ce faci cu invitnt fara stop de pica
-PCP sau CCP
-1D-1H-2S Hydra?
-Multi si Muideberg?
-structura Garozzo pe desch de 1M? daca nu, 2/1 sau var Voinescu?
 fit constructiv (mai ales pe deschiderea de 1C)
-ce deschidem cu (13)=4=5
-pe 1x-1M dau fit de 3 carti? continuari pe 1x-1M-2M
-1M-1N-2D sa arate 4 si 2C 2 carti?
-3=3=3=4, 16+ (mai ales pe deschiderea de 1D)
-1D-3C constructiv sau nu
-ce e 1D-2M
-a 3-a forcing
+1N-(2N=minors)
+
+
+multi o sa raspunda anca ulterior
+nu jucam structura garozzo
+1M-2m e GF absolut
+3nt non-serious
+checkback dublu in varianta flotza
+ELC
+drury cu 3 variante maximal cu 3/4faraScurtime/4cuScurtime
+Hydra cu 3 capete (Dudu)
+cu (13)=4=5 deschidem 1C //////// cu 1=4=4=4 deschidem 1D si relicitam 1N pe 1S
+X/XX suport in care e si varianta de zona 3; e obligatoriu 
+ce facem pe inversate si 2n moderator: pe 1x-1y-2z-2n esti GF doar cand treci de prima culoare
 chestii complicate pe 1D-2C si 1D-2D
-1D-1N-2C poate fi (14)44
-daca luam contra la 1N-P-2X(trsf)-X
-sau la stayman
+3=3=3=4, 16+ (mai ales pe deschiderea de 1D); pe 1C zic 1S si incerc sa ma descurc de acolo,; pe 1D zic 2C si vad de acolo incercand sa licitez majore;
+1D-2M e 3-7 puncte cu culoare in 6
+1D-3C e construcitv cu 6 carti bune de trefla
+1m-3M sunt 7 carti constructive
+P-1M-3m e salt cu fit
+P-1H-2S si P-1S-3H e salt cu fit
+1M-1N-2C e minim 2 carti si 1M-1N-2D e minim 4 carti
+1m-1x(4cM)-2n jucam checkback si transferuri
+nu dam fit de 3 carti pe 1D-1M si 1H-1S
+1N-(P)-2C-(X) => recontra e trefle; orice licitatie e la fel cu stop; pas neaga stop; 
+1N-(P)-2C-(X)-P-(P)=> 2D e de joc; 2H majore, slab; 3M e Smolen inversat; XX il obliga pe P sa liciteze in trsf
+(1N)-P-(2X=trsf)-X e culoarea 
+(1N)-P-(2X=trsf)-2(X+1) e apel
+1N-(P)-2X(trsf)-X(apel scurt) => XX e valori , accept e fit 
+1N-(P)-2X(trsf)-X(culoarea) => XX e valori , accept e fit; 2N arata si valori si stop; restul e la fel 
+CCP (contra urmat de contra e penalizare) prima contra creeand un forcing

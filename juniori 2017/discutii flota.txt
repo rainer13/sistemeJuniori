@@ -28,7 +28,7 @@ deschideriile de 1NT si 2NT(levate)
 
 double checkback:
 2D GF=> prioritatile sunt fit 3, fit 4 oM, culoare de 5, tinere in a 4-a culoare
-2C inv cu orice sau stop pe caro=> (cica singura exceptie e cu 4207, ceea ce mi se pare o aberatie)
+2C inv cu orice sau stop pe caro=> (cica singura exceptie e cu 4207, ceea ce mi se pare o aberatie sau 4117)
 	mai exista 1x-1y-1z-2c-2d-3n e CoG 5332
 1x-1y-1z-2n => puppet pentru 3C => pas e slab;
 			orice alta culoare la tr 3 e 5+-5+ GF cu y si noua culoare (1d-1s-1n-2n-3c-3s e bicolor 5-5 pica-trefla; 1d-1s-1n-3c-3d e bicolor 5-5 pica-caro);
