@@ -1,6 +1,8 @@
 diferenta dintre 1d-1s-1n-2c-2d-3c si 1d-1s-1n-3c
 1d-1n-2n si 1c-1s ce fac cu 15-17 nebal; i.e. al meu nu are M4 pe deschiderea de 1m si vreau sa joc 3n cu 15-17 nebal pe 8-10
 1N-(2N=minors)
+CCP (contra urmat de contra e penalizare) prima contra creeand un forcing sau PCP; pass-double inversion?
+pass-double inversion dupa 2C tari?
 
 
 multi o sa raspunda anca ulterior
@@ -31,7 +33,6 @@ nu dam fit de 3 carti pe 1D-1M si 1H-1S
 (1N)-P-(2X=trsf)-2(X+1) e apel
 1N-(P)-2X(trsf)-X(apel scurt) => XX e valori , accept e fit 
 1N-(P)-2X(trsf)-X(culoarea) => XX e valori , accept e fit; 2N arata si valori si stop; restul e la fel 
-CCP (contra urmat de contra e penalizare) prima contra creeand un forcing
 cu pas initial, 2C e checkback
 Anca trage de carte
 jucam trsf pe 1M-(X)-
