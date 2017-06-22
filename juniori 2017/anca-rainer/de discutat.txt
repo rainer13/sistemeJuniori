@@ -1,0 +1,69 @@
+diferenta dintre 1d-1s-1n-2c-2d-3c si 1d-1s-1n-3c
+1d-1n-2n si 1c-1s ce fac cu 15-17 nebal; i.e. al meu nu are M4 pe deschiderea de 1m si vreau sa joc 3n cu 15-17 nebal pe 8-10
+1N-(2N=minors)
+CCP (contra urmat de contra e penalizare) prima contra creeand un forcing sau PCP; pass-double inversion?
+pass-double inversion dupa 2C tari?
+Leapiing Michaels
+(2S)-3C si (2S)-3H sa fie inversate (http://bridgewinners.com/article/view/the-switch-principle/)
+
+
+
+
+multi o sa raspunda anca ulterior
+nu jucam structura garozzo
+1M-2m e GF absolut
+3nt non-serious
+checkback dublu in varianta flotza
+ELC
+drury cu 3 variante maximal cu 3/4faraScurtime/4cuScurtime
+Hydra cu 3 capete (Dudu)
+cu (13)=4=5 deschidem 1C //////// cu 1=4=4=4 deschidem 1D si relicitam 1N pe 1S
+X/XX suport in care e si varianta de zona 3; e obligatoriu 
+ce facem pe inversate si 2n moderator: pe 1x-1y-2z-2n esti GF doar cand treci de prima culoare
+chestii complicate pe 1D-2C si 1D-2D
+3=3=3=4, 16+ (mai ales pe deschiderea de 1D); pe 1C zic 1S si incerc sa ma descurc de acolo,; pe 1D zic 2C si vad de acolo incercand sa licitez majore;
+1D-2M e 3-7 puncte cu culoare in 6
+1D-3C e construcitv cu 6 carti bune de trefla
+1m-3M sunt 7 carti constructive
+P-1M-3m e salt cu fit
+1M-3H e inv cu 6 cupe bune
+P-1H-2S si P-1S-3H e salt cu fit
+1M-1N-2C e minim 2 carti si 1M-1N-2D e minim 4 carti
+1m-1x(4cM)-2n jucam checkback si transferuri
+nu dam fit de 3 carti pe 1D-1M si 1H-1S
+1N-(P)-2C-(X) => recontra e trefle; orice licitatie e la fel cu stop; pas neaga stop; 
+1N-(P)-2C-(X)-P-(P)=> 2D e de joc; 2H majore, slab; 3M e Smolen inversat; XX il obliga pe P sa liciteze in trsf
+(1N)-P-(2X=trsf)-X e culoarea 
+(1N)-P-(2X=trsf)-2(X+1) e apel
+1N-(P)-2X(trsf)-X(apel scurt) => XX e valori , accept e fit 
+1N-(P)-2X(trsf)-X(culoarea) => XX e valori , accept e fit; 2N arata si valori si stop; restul e la fel 
+cu pas initial, 2C e checkback
+Anca trage de carte
+jucam trsf pe 1M-(X)-
+1H-(X)-2S e 5-5 ms, inv+
+1M-(X)-2N e min limit bid
+1M-(X)-3x e slab
+(1x)-1H-(X)-2S sunt pici
+jucam trsf si pe (1x)-1M-(X) cu salturile fiind fit-showing jumps la tr 3
+(1x)-1M-(P)- jucam trsf incepand de la q-bid pana la 2M exclusiv si jucam fit-showing jumps la tr 3
+(1D)-1H-(1S) 2D e fit bun de 3 carti, 2S e e mixed raise si 2N min limit bid
+(1D)-1H-(2C) 2H e fit, 2N e minim limit bid cu f4, 3C e inv cu f3, 3D e mixed raise si 2D e fit bun de 3 carti
+1H-1N-2C/D/H-2S e pica imposibila
+
+1C-1D-1H e filosofic si nu stim ce sa facem fara stop de pica
+1D-(1H)-1S-P-2D ce e; adica daca cu xx de cupa zic 1N
+	1N poate fi cu xx de cupa in lipsa a 5 carale bune
+
+a 3-a forcing: 1D-1S-2D-2H e forcing si 1D-1S-2D-3C e forcing in plin, nu arata neaparat trefle cum 2H e natural forcing
+		1C-1D-2C=> 2D si 2S sunt forcing
+		1C-1H-2C=> 2D e GF si 2H e natural constructiv 
+		
+salt ca pasant initial
+	P-1C-3D/H/S sunt splintere
+	P-1D-3C e salt cu fit
+	P-1D-3M e splintere
+	P-1M-3C=5-5ms inv
+	P-1M-3D e mixed raise
+	P-1S-3H P-1H-2S sunt fit-showing jumps
+	
+daca am fit constructiv constructiv de trefla pe deschiderea de 1C zic 1S si relicitez 2C
