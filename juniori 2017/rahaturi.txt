@@ -27,8 +27,8 @@ fit-showing jumps eventual
 deschiderile la tr 2 de aici (tricul 2 in trsf)
 Bergen
 trefla poloneza
-Multi (cu si fara 2N tare)
-2D - tricolor scurt de caro
+Multi (cu si fara 2N tare) & Muideberg
+2D/H - tricolor scurt de caro
 2D - majore
 2H -majore
 2M -bicolore (inclusiv 2H=H cu orice)
@@ -40,6 +40,7 @@ unii deschid 11-14 cu 1C si 18-19 cu 1D
 2C/D = 18-19 bal
 2D GF
 2D tare dar mai slab ca 2C
+2C tari sau caro slab
 2C = 18-19 bal sau tare
 deschiderea de 2M constructiv
 2C din precizie
@@ -51,8 +52,11 @@ deschiderea de 2M constructiv
 Gazilli
 [A3], [D2] si altele de aici: http://www.ecatsbridgenews.com/eblsystems/U26-Open/Estonia/PiibelehtZvorovski.red.no-brown.pdf
 1D zburator
+X la 1NT e bicolor adiacent neprecizat
+bicolore precizzate pe 1NT
+Ghestem
 
-Spania, Suedia, Turcia, Rusia, norvegia, irlanda, croatia, estonia, cehia
+Suedia, croatia, estonia
 
 category 3 events
 
