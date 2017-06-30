@@ -15,10 +15,6 @@ A843		Q7
 tot: 27
 10:00; 12:20; 15:30; 17:50
 
-la noi:
-1M-2N-3N
-1M-3N
-poate rescriem raspunsurile pe 1N-4N sa aratam minora calitativa sau nu
 
 
 transferuri pe o trefla (semi)naturala sau o trefla tare
@@ -58,6 +54,10 @@ Ghestem
 tr 2 in trsf
 fantunes 1/2 level
 in general trsf pe deschiderea lor de 1M
+1N Raptor
+Bergen raises
+Drury
+ce inseamna 2D-(x)-P si 2D-(x)-XX, cu 2D multi
 
 http://www.ecatsbridgenews.com/eblsystems/U26-Open/Estonia/IherMaide.pdf
 http://www.ecatsbridgenews.com/eblsystems/U26-Open/Croatia/Mijic-Djilovic.pdf

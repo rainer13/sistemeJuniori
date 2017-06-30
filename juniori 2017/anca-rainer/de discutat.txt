@@ -10,11 +10,23 @@ deschideri in poz 4
 1S-2S-3S cu adv in zona
 1X-(1/2Y)-P-(2X)-X i.e. 1H-(1S)-P-(2H)-X sau 1D-(1H)-P-(2D)-X sau 1D-(2C)-P-(2D)-X
 (1X)-P-(1Y<>NT)-1NT
+ce P-1S-2H si la P-1S-1N-2m-2H
+schimbarile la 1S si am cupe; eventual acelasi 2-way si pe 1S-1N-2D ca pe 1S-1N-2C
+	1S-2H NF cu 5 cupe
+	1S-3H inv cu 6 cupe bune
+	1S-4H splinter
+	1S-1N-2m-3H picture bid
+	1S-1N-2m-4H de joc
+	1S-1N-2S-3H GF
+
+	nu am slab cu 6 cupe, care ar putea intra in 1S-2H
+	tot acolo ar putea intra si inv cu 5-6 cupe proaste
+schimbari la 3N-4D
+poate rescriem raspunsurile pe 1N-4N sa aratam minora calitativa sau nu
+1x-(P)-1y-(1z)-1n
 
 
 
-multi o sa raspunda anca ulterior
-nu jucam structura garozzo
 1M-2m e GF absolut
 3nt non-serious
 checkback dublu in varianta flotza
@@ -70,4 +82,4 @@ salt ca pasant initial
 	P-1M-3D e mixed raise
 	P-1S-3H P-1H-2S sunt fit-showing jumps
 	
-daca am fit constructiv constructiv de trefla pe deschiderea de 1C zic 1S si relicitez 2C
+daca am fit constructiv de trefla pe deschiderea de 1C zic 1S si relicitez 2C
