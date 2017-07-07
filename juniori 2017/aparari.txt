@@ -1,0 +1,22 @@
+namyats (deschid 4m in loc de 4M):
+X e carte si daca am apel pur pasez si dau contra la contract
+
+(1C nat)-P-(1D cupe)=>
+1H am si eu cupe bune
+X apel scurt de cupa
+1N natural
+2H e pica cu minora
+2N minore
+
+(1C tare)-P-(1H pici)=>
+1S cupa cu minora
+1N minore
+X cupe
+
+(1M)-P-(3C fit de pica CU trefle)
+X e celelalte culori
+3M e ca si contra dar cu ODR (offence to defence ratio) mai mare
+
+1m-2X aratand majore, diverse tarii
+daca X=D, contra e caro, cu minore aveti 2H/S/N
+daca X e M, 2N e cu mai multa distributie, si X e cu mai multa forta

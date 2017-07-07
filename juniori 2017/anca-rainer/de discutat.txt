@@ -18,12 +18,19 @@ schimbarile la 1S si am cupe; eventual acelasi 2-way si pe 1S-1N-2D ca pe 1S-1N-
 	1S-1N-2m-3H picture bid
 	1S-1N-2m-4H de joc
 	1S-1N-2S-3H GF
+	
+	Anca:
+		1S-2H NF cu 5H
+		1S-3H nu sunt f sigura, invitant cu cupe nu e pt ca pe 1S-1N-2m-3H anunti mana invitanta cu cupe
+		1S-4H- splinter
+		1S-1N-2m-3H am zis mai sus
 
 	nu am slab cu 6 cupe, care ar putea intra in 1S-2H
 	tot acolo ar putea intra si inv cu 5-6 cupe proaste
 schimbari la 3N-4D
 poate rescriem raspunsurile pe 1N-4N sa aratam minora calitativa sau nu
 1x-(P)-1y-(1z)-1n
+(1M)-P-(3C/D Bergen)-X
 
 
 
