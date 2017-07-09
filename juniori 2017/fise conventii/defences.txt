@@ -1,0 +1,10 @@
+1m-(1N nat)-2m is majors
+
+(2D majors)=> X is some HCP/opening; 3M asks for stop in M; 3m is natural; 2H/S asks for help in C/D for an eventual 3N
+
+1N-(2C majors)=> 2M shows values in the suit; 2D is NF; 2N is Lebensohl; 3M asks for stop in M
+
+2D Multi => X is T/O of Sp; 2M/3m/3M is natural; 4m is Leaping Michaels; with short hearts we pass and make a T/O double later; after (2D)-X and (2D)-P-(2H/S)-P-(2S/P)-X we play Lebensohl
+
+Retzler-Toma:
+1M-(1N)-2C is 2 way, 5oM+2M or 9-11 and 3c fit in M
