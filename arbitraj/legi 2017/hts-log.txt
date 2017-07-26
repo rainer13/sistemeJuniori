@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jul 2017 17:45:28 at http://www.ecatsbridge.com/documents/docdefault.asp?page=Laws&start=c%3A%5Cinetpub%5Cwwwroot%5Cecatsbridge%5Cdocuments%5Cfiles%5C2017Laws%2FPDF http://www.ecatsbridge.com/documents/files/2017Laws/PDF/Laws/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.ecatsbridge.com/documents/docdefault.asp?page=Laws&start=c%3A%5Cinetpub%5Cwwwroot%5Cecatsbridge%5Cdocuments%5Cfiles%5C2017Laws%2FPDF http://www.ecatsbridge.com/documents/files/2017Laws/PDF/Laws/ -O1 "E:\bridge\sistemeJuniori\juniori 2017\arbitraj\legi 2017" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:45:31	Warning: 	Note: due to www.ecatsbridge.com remote robots.txt rules, links beginning with these path will be forbidden: /warsaw289/ (see in the options to disable this)
+17:47:34	Error: 	"Forbidden" (403) at link www.ecatsbridge.com/documents/files/2017Laws/PDF/Laws/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 6 seconds : 126 links scanned, 124 files written (2731466 bytes overall) [2774279 bytes received at 22018 bytes/sec]
+(1 errors, 1 warnings, 0 messages)
