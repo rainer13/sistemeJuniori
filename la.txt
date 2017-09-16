@@ -1,0 +1,704 @@
+                                         
+BD:  1        S-QT94            Dlr: N   
+              H-Q86             Vul: None
+              D-Q9853                    
+              C-2                        
+S-532                  S-AK87            
+H-AJ5                  H-KT7             
+D-JT74                 D-K62             
+C-QJ6                  C-AK3             
+              S-J6                       
+              H-9432                     
+              D-A                        
+              C-T98754                   
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   -                   
+ S   -   -   -   -   -                   
+ E   3   3   3   4   5                   
+ W   3   3   3   4   5                   
+=========================================
+                                         
+BD:  2        S-AT52            Dlr: E   
+              H-K4              Vul: NS  
+              D-J743                     
+              C-Q92                      
+S-6                    S-QJ87            
+H-AQT986               H-72              
+D-AT8                  D-Q965            
+C-A85                  C-JT3             
+              S-K943                     
+              H-J53                      
+              D-K2                       
+              C-K764                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   1   -                   
+ S   -   -   -   1   -                   
+ E   1   2   3   -   2                   
+ W   1   2   3   -   2                   
+=========================================
+                                         
+BD:  3        S-AJT52           Dlr: S   
+              H-52              Vul: EW  
+              D-A87                      
+              C-972                      
+S-                     S-Q73             
+H-A96                  H-J73             
+D-KQJ52                D-63              
+C-KJ863                C-AQT54           
+              S-K9864                    
+              H-KQT84                    
+              D-T94                      
+              C-                         
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   2   4   -                   
+ S   -   -   3   4   -                   
+ E   5   2   -   -   -                   
+ W   5   2   -   -   -                   
+=========================================
+                                         
+BD:  4        S-A653            Dlr: W   
+              H-A842            Vul: All 
+              D-85                       
+              C-T96                      
+S-Q9                   S-KJT8            
+H-Q965                 H-T               
+D-AK9                  D-7643            
+C-J875                 C-KQ43            
+              S-742                      
+              H-KJ73                     
+              D-QJT2                     
+              C-A2                       
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   1   -   -                   
+ S   -   -   1   -   -                   
+ E   3   2   -   1   2                   
+ W   3   2   -   1   2                   
+=========================================
+                                         
+BD:  5        S-9842            Dlr: N   
+              H-QT2             Vul: NS  
+              D-A73                      
+              C-Q72                      
+S-T                    S-63              
+H-AK98643              H-J               
+D-T6                   D-KJ942           
+C-K63                  C-AJT84           
+              S-AKQJ75                   
+              H-75                       
+              D-Q85                      
+              C-95                       
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   2   -                   
+ S   -   -   -   2   -                   
+ E   4   4   4   -   -                   
+ W   4   4   4   -   -                   
+=========================================
+                                         
+BD:  6        S-J96             Dlr: E   
+              H-93              Vul: EW  
+              D-8742                     
+              C-KT87                     
+S-2                    S-KQ8754          
+H-AKT65                H-J42             
+D-AKQ9                 D-3               
+C-J32                  C-Q96             
+              S-AT3                      
+              H-Q87                      
+              D-JT65                     
+              C-A54                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   -                   
+ S   -   -   -   -   -                   
+ E   2   2   4   3   3                   
+ W   2   2   4   3   3                   
+=========================================
+                                         
+BD:  7        S-QJ654           Dlr: S   
+              H-83              Vul: All 
+              D-KT                       
+              C-KQ53                     
+S-AK72                 S-98              
+H-K42                  H-AQ6             
+D-J975                 D-Q862            
+C-96                   C-JT42            
+              S-T3                       
+              H-JT975                    
+              D-A43                      
+              C-A87                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   2   -   1   2   -                   
+ S   2   -   1   2   -                   
+ E   -   2   -   -   1                   
+ W   -   2   -   -   1                   
+=========================================
+                                         
+BD:  8        S-K92             Dlr: W   
+              H-K73             Vul: None
+              D-KQ9                      
+              C-T832                     
+S-Q                    S-A876543         
+H-AT94                 H-Q6              
+D-AJ532                D-7               
+C-754                  C-A96             
+              S-JT                       
+              H-J852                     
+              D-T864                     
+              C-KQJ                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   1                   
+ S   -   -   -   -   1                   
+ E   2   1   1   2   -                   
+ W   2   1   2   2   -                   
+=========================================
+                                         
+BD:  9        S-Q5              Dlr: N   
+              H-                Vul: EW  
+              D-AKQT8753                 
+              C-Q75                      
+S-A93                  S-JT6             
+H-A873                 H-QJT94           
+D-9642                 D-J               
+C-K4                   C-J963            
+              S-K8742                    
+              H-K652                     
+              D-                         
+              C-AT82                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   3   5   -   2   1                   
+ S   4   5   -   2   2                   
+ E   -   -   2   -   -                   
+ W   -   -   3   -   -                   
+=========================================
+                                         
+BD: 10        S-KJ32            Dlr: E   
+              H-T32             Vul: All 
+              D-J864                     
+              C-93                       
+S-A8                   S-94              
+H-QJ9765               H-A84             
+D-K9                   D-532             
+C-Q62                  C-AJ754           
+              S-QT765                    
+              H-K                        
+              D-AQT7                     
+              C-KT8                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   3   -   2   -                   
+ S   -   3   -   2   -                   
+ E   4   -   4   -   2                   
+ W   4   -   4   -   2                   
+=========================================
+                                         
+BD: 11        S-K95             Dlr: S   
+              H-AQ9752          Vul: None
+              D-Q6                       
+              C-A3                       
+S-J4                   S-T7              
+H-K                    H-83              
+D-9854                 D-AKJT72          
+C-K97542               C-Q86             
+              S-AQ8632                   
+              H-JT64                     
+              D-3                        
+              C-JT                       
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   6   6   1                   
+ S   -   -   6   6   1                   
+ E   2   3   -   -   -                   
+ W   2   3   -   -   -                   
+=========================================
+                                         
+BD: 12        S-A765            Dlr: W   
+              H-QT3             Vul: NS  
+              D-94                       
+              C-T732                     
+S-QT8432               S-KJ              
+H-75                   H-642             
+D-AKJ3                 D-T862            
+C-Q                    C-A864            
+              S-9                        
+              H-AKJ98                    
+              D-Q75                      
+              C-KJ95                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   3   -   3   -   -                   
+ S   3   -   3   -   -                   
+ E   -   2   -   4   -                   
+ W   -   2   -   4   -                   
+=========================================
+                                         
+BD: 13        S-QJ763           Dlr: N   
+              H-T73             Vul: All 
+              D-K8                       
+              C-874                      
+S-T95                  S-A82             
+H-82                   H-QJ954           
+D-AJT43                D-96              
+C-A62                  C-J53             
+              S-K4                       
+              H-AK6                      
+              D-Q752                     
+              C-KQT9                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   1   1   1   2   1                   
+ S   1   1   1   2   1                   
+ E   -   -   -   -   -                   
+ W   -   -   -   -   -                   
+=========================================
+                                         
+BD: 14        S-T72             Dlr: E   
+              H-A95             Vul: None
+              D-Q8765                    
+              C-62                       
+S-J                    S-KQ9864          
+H-K82                  H-J74             
+D-AK42                 D-3               
+C-AQT54                C-987             
+              S-A53                      
+              H-QT63                     
+              D-JT9                      
+              C-KJ3                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   1   -   -   -                   
+ S   -   2   -   -   1                   
+ E   4   -   2   5   -                   
+ W   4   -   2   5   -                   
+=========================================
+                                         
+BD: 15        S-K87             Dlr: S   
+              H-JT9             Vul: NS  
+              D-KJ32                     
+              C-T32                      
+S-Q943                 S-A5              
+H-Q6                   H-K74             
+D-AT75                 D-9864            
+C-AQ4                  C-9875            
+              S-JT62                     
+              H-A8532                    
+              D-Q                        
+              C-KJ6                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   -                   
+ S   -   -   -   1   -                   
+ E   1   2   -   -   1                   
+ W   1   2   -   -   1                   
+=========================================
+                                         
+BD: 16        S-AJT2            Dlr: W   
+              H-A83             Vul: EW  
+              D-J93                      
+              C-843                      
+S-98                   S-Q64             
+H-Q4                   H-KT976           
+D-AKT8                 D-652             
+C-K7652                C-QT              
+              S-K753                     
+              H-J52                      
+              D-Q74                      
+              C-AJ9                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   2   2                   
+ S   -   -   -   3   2                   
+ E   1   1   1   -   -                   
+ W   1   1   1   -   -                   
+=========================================
+                                         
+BD: 17        S-86              Dlr: N   
+              H-KQ73            Vul: None
+              D-AT4                      
+              C-KQT9                     
+S-T952                 S-AQJ3            
+H-J96                  H-T5              
+D-765                  D-Q932            
+C-763                  C-J82             
+              S-K74                      
+              H-A842                     
+              D-KJ8                      
+              C-A54                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   6   5   6   3   6                   
+ S   6   5   6   3   6                   
+ E   -   -   -   -   -                   
+ W   -   -   -   -   -                   
+=========================================
+                                         
+BD: 18        S-T9743           Dlr: E   
+              H-6               Vul: NS  
+              D-QJ85                     
+              C-AQ3                      
+S-Q                    S-KJ852           
+H-AKJ7                 H-Q84             
+D-A964                 D-T2              
+C-KJ94                 C-872             
+              S-A6                       
+              H-T9532                    
+              D-K73                      
+              C-T65                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   -                   
+ S   -   -   -   -   -                   
+ E   2   1   2   1   1                   
+ W   2   1   1   1   1                   
+=========================================
+                                         
+BD: 19        S-AJT85           Dlr: S   
+              H-QJ5             Vul: EW  
+              D-J2                       
+              C-A73                      
+S-Q32                  S-K976            
+H-76                   H-A92             
+D-T954                 D-AK87            
+C-KJ86                 C-94              
+              S-4                        
+              H-KT843                    
+              D-Q63                      
+              C-QT52                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   1   -   2   -   -                   
+ S   1   -   2   -   -                   
+ E   -   2   -   1   1                   
+ W   -   2   -   2   1                   
+=========================================
+                                         
+BD: 20        S-Q92             Dlr: W   
+              H-Q               Vul: All 
+              D-AT974                    
+              C-A632                     
+S-J6                   S-T83             
+H-KJ9                  H-A6542           
+D-865                  D-Q32             
+C-J9754                C-Q8              
+              S-AK754                    
+              H-T873                     
+              D-KJ                       
+              C-KT                       
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   3   6   2   6   4                   
+ S   3   6   2   6   4                   
+ E   -   -   -   -   -                   
+ W   -   -   -   -   -                   
+=========================================
+                                         
+BD: 21        S-432             Dlr: N   
+              H-KJT5            Vul: NS  
+              D-QT96                     
+              C-K6                       
+S-QT96                 S-85              
+H-A62                  H-9843            
+D-A32                  D-KJ84            
+C-AQ2                  C-T75             
+              S-AKJ7                     
+              H-Q7                       
+              D-75                       
+              C-J9843                    
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   -                   
+ S   -   -   -   1   -                   
+ E   -   -   1   -   1                   
+ W   -   1   1   -   1                   
+=========================================
+                                         
+BD: 22        S-AQ92            Dlr: E   
+              H-KQ98            Vul: EW  
+              D-A8                       
+              C-984                      
+S-J73                  S-K54             
+H-T7                   H-J62             
+D-KJ742                D-963             
+C-653                  C-AJT2            
+              S-T86                      
+              H-A543                     
+              D-QT5                      
+              C-KQ7                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   3   2   4   4   3                   
+ S   3   2   4   4   3                   
+ E   -   -   -   -   -                   
+ W   -   -   -   -   -                   
+=========================================
+                                         
+BD: 23        S-KT432           Dlr: S   
+              H-J983            Vul: All 
+              D-T987                     
+              C-                         
+S-AQJ95                S-7               
+H-A54                  H-QT762           
+D-A3                   D-Q4              
+C-KQJ                  C-A7643           
+              S-86                       
+              H-K                        
+              D-KJ652                    
+              C-T9852                    
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   1   -   -   -                   
+ S   -   1   -   -   -                   
+ E   5   -   5   3   5                   
+ W   4   -   5   3   3                   
+=========================================
+                                         
+BD: 24        S-752             Dlr: W   
+              H-A94             Vul: None
+              D-AKJ54                    
+              C-K3                       
+S-KQT                  S-AJ98            
+H-KJT5                 H-872             
+D-T9                   D-73              
+C-Q964                 C-AT85            
+              S-643                      
+              H-Q63                      
+              D-Q862                     
+              C-J72                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   1   -   -   -                   
+ S   -   1   -   -   -                   
+ E   3   -   3   3   1                   
+ W   3   -   3   3   1                   
+=========================================
+                                         
+BD: 25        S-J7654           Dlr: N   
+              H-Q63             Vul: EW  
+              D-KT65                     
+              C-8                        
+S-KT8                  S-A2              
+H-542                  H-AJ98            
+D-Q82                  D-974             
+C-AT74                 C-KQJ5            
+              S-Q93                      
+              H-KT7                      
+              D-AJ3                      
+              C-9632                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   1   -   2   -                   
+ S   -   1   -   2   -                   
+ E   2   -   1   -   1                   
+ W   2   -   1   -   1                   
+=========================================
+                                         
+BD: 26        S-K3              Dlr: E   
+              H-98754           Vul: All 
+              D-JT2                      
+              C-T32                      
+S-JT96                 S-875             
+H-K32                  H-AJ6             
+D-96                   D-K743            
+C-AQJ6                 C-975             
+              S-AQ42                     
+              H-QT                       
+              D-AQ85                     
+              C-K84                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   1   1   -   -                   
+ S   1   2   1   1   -                   
+ E   -   -   -   -   -                   
+ W   -   -   -   -   -                   
+=========================================
+                                         
+BD: 27        S-Q               Dlr: S   
+              H-T85             Vul: None
+              D-QT742                    
+              C-AK94                     
+S-JT87542              S-AK              
+H-Q3                   H-KJ97642         
+D-K83                  D-A5              
+C-3                    C-T2              
+              S-963                      
+              H-A                        
+              D-J96                      
+              C-QJ8765                   
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   3   3   -   -   -                   
+ S   3   3   -   -   -                   
+ E   -   -   4   4   -                   
+ W   -   -   4   4   -                   
+=========================================
+                                         
+BD: 28        S-Q876            Dlr: W   
+              H-KQ983           Vul: NS  
+              D-8                        
+              C-J54                      
+S-AK43                 S-JT95            
+H-642                  H-AJ7             
+D-64                   D-QJ72            
+C-AT93                 C-62              
+              S-2                        
+              H-T5                       
+              D-AKT953                   
+              C-KQ87                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   1   2   2   -   1                   
+ S   1   2   2   -   1                   
+ E   -   -   -   1   -                   
+ W   -   -   -   1   -                   
+=========================================
+                                         
+BD: 29        S-A4              Dlr: N   
+              H-AK8             Vul: All 
+              D-AQ864                    
+              C-Q94                      
+S-KQT9                 S-86              
+H-QT953                H-J2              
+D-2                    D-T9753           
+C-KJT                  C-A762            
+              S-J7532                    
+              H-764                      
+              D-KJ                       
+              C-853                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   1   1   -   1   1                   
+ S   1   1   -   1   1                   
+ E   -   -   2   -   -                   
+ W   -   -   2   -   -                   
+=========================================
+                                         
+BD: 30        S-A5              Dlr: E   
+              H-T4              Vul: None
+              D-T7632                    
+              C-T983                     
+S-J842                 S-K973            
+H-AK7                  H-J85             
+D-AK94                 D-QJ              
+C-Q6                   C-AKJ7            
+              S-QT6                      
+              H-Q9632                    
+              D-85                       
+              C-542                      
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   -                   
+ S   -   -   -   -   -                   
+ E   5   5   3   5   5                   
+ W   5   5   3   5   5                   
+=========================================
+                                         
+BD: 31        S-9865            Dlr: S   
+              H-A65             Vul: NS  
+              D-532                      
+              C-AT9                      
+S-AJT7                 S-43              
+H-QJT92                H-K4              
+D-Q                    D-KT8764          
+C-543                  C-K76             
+              S-KQ2                      
+              H-873                      
+              D-AJ9                      
+              C-QJ82                     
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   -   -   -   -   -                   
+ S   -   -   -   -   -                   
+ E   -   1   2   1   -                   
+ W   -   1   2   1   -                   
+=========================================
+                                         
+BD: 32        S-A652            Dlr: W   
+              H-KT96            Vul: EW  
+              D-KT8                      
+              C-T2                       
+S-Q743                 S-KJT8            
+H-7                    H-QJ532           
+D-Q7643                D-9               
+C-K83                  C-765             
+              S-9                        
+              H-A84                      
+              D-AJ52                     
+              C-AQJ94                    
+                                         
+<-Makeable contracts->                   
+     C   D   H   S  NT                   
+     =   =   =   =  ==                   
+ N   4   4   3   2   3                   
+ S   4   4   3   2   3                   
+ E   -   -   -   -   -                   
+ W   -   -   -   -   -                   
+=========================================
