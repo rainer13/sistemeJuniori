@@ -1,0 +1,143 @@
+4N: intrebare specifica de asi
+	5C nu am, 5D/H/S cel in culoare, 5N cel de trefla, 6C=2 asi
+
+4culoare: natural
+	4N=KC => 5C=0/1; 5D=1+Q; 5H=2; 5S=2+Q
+	5x e Anti-qbid (de preferat xx, nu xxx)
+	4x-4S e de joc
+	
+3N e gambling(AKQxxxx minor); 4/5/6/7 trefle sunt pas sau corect, 4M e de joc
+	4D cere scurtime => 4M e in mahora, 4N e 7222, 5m e in cealalta minora
+	
+3D/H/S: natural
+	4C e intrebare de asi, raspunsuri ca la 4M-4N
+	4M e de joc
+	3N e forcing
+	3M-4D e un fit cu carte (atentie, nu se blufeaza)
+	
+3C: natural, 3X e forcing, 4D e intrebare de KC, raspunsuri ca mai sus
+
+2N: 20-21 balansate (3S e INTOTDEAUNA transfer la 3N, cu o exceptie, vezi Muppet)
+	3C e Muppet Stayman
+	3D/H transfer major
+	3S e transfer la 3N, fie sa pasez 3N, fie sa invit la mansa minora
+	3N/4C sunt transfer, fie sa pasez 4m, fie sa invit la slam anunand scurtimea sau lipsa ei
+	4D e 5-5 Ms, fix de mansa
+	5m e de joc
+	2N-3D-3H-4m sunt valori, merge catre slam de H
+	aici nu sunt convins ca e mega bine...
+	
+	Muppet Stayman:
+		3D am una sau ambele majore in 4, 3H nu am nici care, 3S=5S, 3N=5h (dupa care 4D e retransfer si 4H sunt carale)
+		pe 2N-3C-3D, 3H=4S, 3S=4H, 3N e de joc (singura data), 4C=4-4 slamish, 4D e 4-4 fix de mansa
+		pe 2N-3C-3D-4C, 4D e fit de cupa, 4H e fit de pica
+		
+
+		
+2M e Muideberg (asteptati-va sa fiu 5-4 in mansa)
+	2H-2S e pasabil
+	3C e P/C
+	2N e releu tare => 3C/D=nat slab, 3H/S=C/D bun, 3N e 6m/5M, 4m=5m/6M, culorile noi sub mansa sunt forcing
+	3D e fit bun
+	4M e de joc
+	3H e natural, inv
+	
+2D e Multi (22-23)
+	2H/S,3H/S e P/C
+	4M e de joc
+	4D cere majora, 4C cere transfer in majora
+	2N e releu tare, dupa care 3C/D=min cu H/S, 3H/S=max cu S/H; culorile noi sunt forcing; 3N e AKQxxx
+	pe 2D-2M-2N jucam ca pe 2N
+	
+2C e tare
+	2D e GF, 2H e mega-slab, 2S e natural, 2N sunt cupe, 3m e natural, 3M e majora neproductiva in 6
+	2C-2D/H-3C e natural, dar 3D cere majora in 4
+	2C-2D/H-3M=6D+4M
+	2C-2H se poate pasa, 2C-2H-2S/N de asemenea
+	
+1N e 15-17
+	2C e Stayman (promite majora?; e drop-dead sau doar Garbage?)
+	2D/H/S/N sunt transferuri; 1N-2D-2H-4H e mild slam try, 1N-2D-2H-3m e GF, 1N-2D-2H-2S e inv cu 5H+4S
+	1N-2D-3m e doubleton util
+	1N-2D-2N sunt HHx  maximal
+	1N-2N-3C e superaccept de trefla, dupa care spunem tineri
+	1N-2N-3C-3D/H/S e singleton
+	3C e bicolor minor slab, 3D e 5-5 minor tare
+	3M e 3M-1oM-(5-4)
+	4C sunt cupe, FIX de mansa, deschidentul poate decide daca joaca el sau il lasa pe repondent; analog cu pici spunem 4D
+	Smolen
+	4H sunt trefle, slam invite (in principiu, fara scurtime)
+	1N-2C-2M-3oM e GF cu fit (1N-2C-2H-3S NU e splinter)
+	1N-4N e cantitativ (6m e de joc, 5m poate primi fit la 6)
+	1N-4N-5H cere paritatea asilor (impar=4S)
+	
+	
+	
+1 la culoare
+	inverted minors
+	bypass la carale pe 1C
+	pe 1C-1D nu jucam XYZ, in rest jucam
+	orice 2/1 este GF (sau exceptam 1S-2H si e doar inv?; exceptam 1D-2C si devine invitant?)
+	1x-1M-2M promite 4
+	
+principii generale
+	Equal Level Conversion?
+	inversata e FORCING pana in 2N. 2N e moderator, orice anunt al deschidentului pana in 3 in culoarea de deschidere arata toleranta SI NU DECLANSEAZA GF
+	P urmat de contra e penalizare? sau contra urmat de contra [1M-(2N)-P-(3C)-P-(P)-X inseamna ce?)
+	DOPI/ROPI; 14/30/2/2+Q
+	1C e 2 carti
+	1x-1M-2N => 3C e chceckback (1x-1H-2N-3C=> 3D am 3H4S, 3H=3H,3S=4S, 3N=n-am; 1x-1S-2N-3C=> 3D=3S4H, 3H=4H, 3S=4S,3N=n-am)
+		1X-1M-2N 3D-> etc sunt transferuri?
+		
+	(1m)-2m e 5-5 major
+	(1m)-2N e 5-5, om+M
+	(1M)-2N e 5-5 minor
+	(1M)-2M e 5-5 oM+m
+	
+	pe 1N adv jucam Multi Landy cu contra Woolsey in direct, natural in reveil
+		daca 1N nu poate contine 14 sau mai mult, X devine penalizare (12-14 e inca tare)
+		
+	1M-1N-2N jucam transferuri? (vezi poze)
+	
+	cand invitam cu XYZ aratam a 5-a carte in majora, in principiu 5422 (si chiar 5431) reliciteaza 1N, 3m/H aratand cam 5-5
+	salturile invitant in direct arata culoare buna
+	1m-1M-1N-3om e 4M5(6)om
+	vreti acest paragraf?
+	
+	atacam 2/4
+	din KTx ce atacam?
+	la culoare pe A semnalizam preferinta, pe orice altceva numaratoare?
+	cum semnalizam la NT?
+	
+	pe 1M-(X) jucam trsf? (de la 1N la 2(M-1))
+	pe (1x)-1M-(X) jucam trsf? (de la 1N la 2(M-1))
+	pe (1x)-1M-(P) jucam trsf? (de la 2x la 2(M-1))
+	
+	se aplica pag 1,2 (fara ultimele randuri), 3 (prima parte si ultima), subcap 1.2.8 si 1.2.6,
+subcap 2.1 (pag 12), 
+	
+	1C-1H-3D ce e?
+	
+	1x-1S-2S-2N arate o scurtime, 3C intreba (le dam lo/mi/hi), 3x e eseu de lungime
+	1x-1H-2H-2S e am o scurtime, 2N intreba (le dam lo/mi/hi), 3m si 2N(pica) sunt esee
+	1x-1M-2M-3M e esu general
+	
+	jucam Mathe? (vezi sist)
+	jucam Hidra? (vezi sist)
+	
+	
+	pe 2D Multi adv
+		in direct
+			X e apel scurt de pica; cu apel scurt de cupa pasez
+			2M e natural
+			3 orice e natural
+			4m e Leaping Michaels
+		intr-a 4-a
+			X e apel fata de culoarea de 2M (daca a venit 2D-P-P, X e apel fata de caro)
+			restul e natural
+		intr-a 6-a X e apel scurt de cupa (si daca deschidentul are pici, am si eu 4)
+		intr-a 8-a, am apel
+			
+			
+	cealalta varianta e Multi contra Multi descris aici:
+		http://www.bridge-tm.org/apps/blog/
