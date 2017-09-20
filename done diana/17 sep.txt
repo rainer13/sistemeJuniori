@@ -1,0 +1,65 @@
+licitatie:
+	dona 1:
+		pe 3H nu ar trebui sa zici 4H. Eu ti-am zis ca am o mana decenta.
+		3N ar fi non-serious, asta cred ca ar trebui sa zici. Un q-bid ar fi serious, nu esti asa de tare, dar esti pe acolo.
+		Daca stii cum sta cartea, faci si 6 :D
+	dona 3:
+		nu cred ca ai de invitat, ci de GF. AKQx si T9x sunt chestii foarte bune.
+		Nici nu esti 4333, deci as putea taia ceva
+	dona 4:
+		sunt de acord sa nu deschizi cu Multi. Esti intre 1D si 3D. Esti la limita pentru ambele.
+		Ce te-ar putea determina sa deschizi e singleton-ul de pica
+	dona 6:
+		nu cred ca poti ajunge vreo data cu mana aia intr-a 4-a. Dar ar trebui sa deschizi 2H intr-a 4-a.
+		Nu jucam Muideberg intr-a 4-a. Dar nici Multi, acolo trebuie sa ma gandesc
+	dona 9:
+		intr-a 3-a semibarajele cam spun "nu cred ca putem face mansa".
+		De aia mi-am permis sa deschid cu atata carte.
+		Ar trebui sa dai fit DACA ei se baga.
+	dona 8:
+		foarte bine zis 2H
+	dona 13:
+		ar trebui sa zici 4D, nu 3C. Daca ghicesc pica sau sta ok fac slam.
+	dona 14:
+		3N nu are nici o legatura. Ideal era sa poti arata 5-4 major, dar nu cred ca poti.
+		Singura varianta ar fi sa deschizi 1H, sa te inversezi si sa te dai GF. Slam-ul e prostut totusi, dar daca aveam si SQ sigur voiai sa-l joci.
+	dona 15:
+		dat fiind ca am deschis 1C, poti face slam fata de Jxxx KQxx Kx QJx, deci clar ar trebui sa spui 3S, nu 4H.
+		
+adversari: (uita-te la numele fisierelor)
+	dona 2:
+		trebuie sa zici 2D, fit constructiv; nu 2H
+	dona 3:
+		contra din N e putin abuziva, dar nu poate costa mult
+		marea greseala e ca mi-a muscat smecheria
+		daca punea mic cam trebuie sa pun K si intru o data (daca nu da contra, categoric joc J la K)
+	dona 4:
+		mi-a placut contra, chit ca nu prea aveai intermediare, e foarte speculativa
+		mi-a placut ca am vazut ce aveam in mana, dar nu prea ai
+	dona 5:
+		ala a jucat sinistru la primele 2 levate
+		nu stiu daca trebuia sa joci tu atu, ca iti permiti sa dai 5 atuuri si un caro
+		dar al 2-lea atu e usor nashpa; dar tot jucai 1S
+	dona 6:
+		ai fost o ... doamna
+		cum pana mea sa-mi preiei caroul, nu numeri (asta mi-am amintit-o fara sa ma uit la levata)
+	dona 7:
+		am atacat prost, facea 6. Dar juca doar 4
+	dona 8:
+		ai jucat sinistru
+		cum pana mea sa dai impasul de cupa, ca sa intri?
+		ti-a returnat ala trefla. Joci AK, tragi treflele si dai impasul de caro. Mai si cadea Q de cupa
+	dona 9:
+		trebuie sa dai contra la 3H (asta inseamna ca e invitant). 3S e doar la bataie
+	dona 10:
+		nu stiu ce sa atac. Am dat contra ca aveam mai mult (un A si distributie). CU AK sigur trebuie sa stai. Nu prea am atac bun (atu??)
+	dona 11:
+		un exemplu oferit de adversari ce inseamna nivelul 5
+	dona 15:
+		trebuie sa zici 5D. Nu ai nimic defensiv, si ti-au murit toate punctele de caro. Posibil sa avem 10 puncte pe axa din care nu ducem levata
+	dona 17:
+		buna contra, speculativa
+	dona 19:
+		ghinionist atac, dar daca stie cum sta cartea face oricum
+	dona 20:
+		cu 3 asi ar trebui sa te dai GF

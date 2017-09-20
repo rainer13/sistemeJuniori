@@ -1,0 +1,59 @@
+2C-Stayman (cu maj in 4)
+2D/H transfer la H/S
+2S e range-ask, fie invitant la 3N, fie transfer la C
+2N e transfer la caro sau bicolor minor slab
+3C e Puppet Stayman, dar nu mai ai inversarile alea intre 3H si 3N
+3D e 5-5 Major, minim invitant
+3M e 1M3oM(54) sau 5-5 minor GF, cu culoarea mai scurta cea zisa
+3N e de joc
+4C sunt cupe, 4D pici
+4H sunt trefle, 4S sunt carale
+4N si 5N sunt cantitative
+6 si 7 orice sunt de joc
+
+
+1N-2C
+2D nu am, 2H am 4, 2S am 4 si n-am 4H
+1N-2C-2D : 	2H e 4-4 major, de jucat 2M
+			2S e minim invitant, deschidentul spune 2N daca e minimal, 3 ceva daca accepta invitatia; zici 2S cand esti inv sau GF (semi)balansat
+			2N vrea sa joace 3m, deschidentul spune 3C obligat care se paseaza sau se corecteaza in 3D
+			3m e carti, GF
+1N-2C-2H:	3S e GF cu 4H, 2S e GF fara, 2N e invitant cu 4S, 2S e GF artificial, 3N e de joc cu 4S, 3m e de joc
+1N-2C-2S: 	2N e invitant, 3m e GF, 3S e invitant, 3H e GF cu 4S
+1N-2C-2D=> 3M e Somlen, 4M5oM, 4D/H sunt transferuri
+
+			
+
+1N-2D
+2H accept simplu
+3H 4H, non-4333, cam minimal
+2S/3C/3D = super accept, doubleton util, cam maximal
+2N e HHx de cupa (H=A/K/Q), dupa care 3D e retransfer si 3H e GF cu carale
+
+1N-2H e acelasi principiu ca 1N-2D
+
+1N-2S: 2N e minimal, 3C e maximal
+1N-2S-2N=> 3C e de joc, 3x e singleton avand trefle, 3N e o mana ce a vrut neaparat sa zica ca are trefle, dar nu e clar ca vrea slam
+1N-2C-3C=> pas e de joc, 3N nu e clar ce e, 3x e singleton, 4C e GF cu trefle
+
+1N-2N=> 3C vreau sa joc C daca esti cu minore, 3D e ca  vrea sa joace carale indiferent
+1N-2N-3C => 3D e de joc, 3M e singleton, 3N e carale care a vrut sa zica ca are carale, 4C e singleton
+1N-2N-3D => cam ca mai sus, pasez daca sunt slab
+
+1N-3C il vezi la 2N, dar NU ai inversiunea intre 3H si 3N
+
+1N-3D=> 3M, 4M si 3N sunt de joc, altceva nu exista
+
+1N-3M incerc sa raspund fata de 3154, cu minote foarte tare mai misti
+
+1N-4C=> 4H joc eu cupe, 4D=joci tu cupe
+1N-4D => asemanator ca mai sus
+
+1N-4H=trefle, nu prea pare sa am scurtime, si sunt foarte tare
+1N-4S ca mai sus
+
+1N-4N=> 	5H intreba de paritatea asilor=> 5S=impar, 5N=par
+			5C/D e propunere
+			6m e de joc
+
+
