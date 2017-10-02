@@ -1,0 +1,70 @@
+1C
+
+	transferuri (acceptam cu 3 carti)
+	1N e 5-5 major, slab sau GF
+	2C->2H sunt slab sau GF, 6 carti (presupun ca daca spun o culoarea noua devin GF, sau macar de inversat?)
+	2S e inv+ cu trefle
+	2N e inv+ cu 5-5 minor
+	3D->3S sunt splintere cu fit de trefla (asta superseeds ce scrie aici https://github.com/rainer13/sistemeJuniori/blob/master/sisteme/Rainer-Balita.docx)
+	jucam XYZ
+	cand jucam a 3-a forcing?
+	1C-1D/H-3D e 18-19 bal cu fit de 3 carti
+	jucam Mathe pe 1C-1D/H-3H/S (vezi sist Dudu)?
+	ce jucam pe 1C-1X-2N? ce inseamna 1C-1S-2N mai exact? i.e. ce fac cu 15-17 nebal
+	cum incercam sa diferentiem intre fit constructiv sau slab? dar cum ne dam constructiv/invitant sau nu cu carale?
+	e ok daca 1C-1S-3D e 15-17 cu 6-4?
+
+	
+1D
+
+	jucam natural
+	2D e minim inv, dam tinerile majore. Cu 18-19 bal NU licitam direct 3N. 3M de la deschident sunt splitere?
+	2M e slab
+	2C e GF sau minim invitant?
+	jucam XYZ
+	1D-1S-3H e 18-19 bal cu 4 pici
+	jucam Hydra? (vezi dudu)
+	ce jucam pe 1D-1M-2N? dar pe 1D-1N-2N?
+	
+	
+1H
+
+	presupun ok tot ce scrie in sist Dudu in ceea ce priveste fitul
+	pentru Bergen (3C poate avea doar 3 carti) propun https://github.com/rainer13/sistemeJuniori/blob/master/juniori%202017/anca-rainer/bergen.odt  e OK?
+	Propun ca 3N sa fie mana cu atuuri care e prea buna pentru 4H?
+	3S/4C/4D sunt splintere
+	pentru 1H-1S-2N si 1H-1N-2N propun sa te uiti la scan-urile din sistemul cu Anca. AM transferuri detaliate. Sunt ok? https://github.com/rainer13/sistemeJuniori/tree/master/juniori%202017/anca-rainer/scan%20bridge/rainer
+
+	
+1S
+
+	din nou propun scan-ruile pentru 1S-1N-2N
+	In fisierele de la Bergen sunt si pentru o pica	
+	
+
+1N
+
+
+
+	
+2C
+	
+	
+	
+	
+	
+	
+	
+principalitati
+	daca invit prin XYZ sigur am a 5-a carte majora
+	asii sunt 14/30/2/2+Q
+	pe 1M-(X) jucam trsf; la fel pe (1X)-1M-(P/X)
+	ELC
+	contra Multi: X e apel scurt de pica, 2S e bicolor 5-5 cupa cu minora; cu pici pasezi sau zici direct 3/4 pici
+	jucam Lebensohl. In competitie 2N e des scrambling sau Lebensohl
+	jucam UNT si Michaels. Contra 1C, daca suntem in zona 2C e majore si 2D natural; daca suntem in mansa 2C e 54 major si 2D e 5-5
+	contra 1N: Multi Landay cu X Woolsey
+	contra 1C tare ne bagam cu Suction (1S e bicolor amestecat, 1N e trefle sau rosii)
+	daca luam contra la Stayman, ne aparam ca aici: https://github.com/rainer13/sistemeJuniori/blob/master/sisteme/Rainer-Balita.docx
+	Jucam 3-way Drury, cum scrie cu Dudu? P-1M-1N ramane atunci forcing
+	ce e P-1m-3x?
