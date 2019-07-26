@@ -1,0 +1,74 @@
+2c: 5c+4M sau 6+ 11-15
+raspunsuri
+2d releu vezi mai jos jos
+2h/s: nf constructiv
+2n: inv cu 5 pici !!!!
+3c:ca sa incepem sa baram
+3 ceva inv culoare cat se poate buna
+
+
+
+
+2c-2d
+ideile sunt:
+1. ca sa pot sa opresc in 2n daca nu pot sa fac altceva
+2. ca sa putem sa invitam cu 5cupe, daca vreau sa invit cu 5 pici zic 2n artificial,
+direct, deci daca dau fit intr-o cul sunt inv
+3. daca zic culoare mea pe nivel de 3 am GF natural 5+
+
+2h: 3+h ori max cu sau fara cupe
+2s: 4s si max 2h daca e minimal
+2n: 4315 exact si minimal
+3c:min cu 6c si fara 3h
+3d:6c4dmax
+3h: 0445 exact
+3s: 4045 exact
+3n: 4405 exact
+
+2c-2d-2h ->2s releu cu cupe sau trefle-
+2n:max  GF
+	3c: stopuri pe gura, daca desch. zice 3h are fit
+	3d/s: natural am fost GF fata de deschident minimal
+	3h: am fost inv+ fata de desch minimal
+3c:6c si 3h min
+3d/3s: spilteruri(pot sa trag la mansa si cu minimal)
+3h: 4h min si nu vreau sa trag la mansa/ nu am scurtime
+3n: scurt de cupa si vreau sa inchid licitatia
+
+daca zic 4c dupa raspuns: KC ideea mea propusa (/ sau setez trefla pentru cuebiduri)
+
+2c-2d-2h-2n inv fara cupe,
+3c: min cu 6c
+restul sun stopuri pe gura
+
+2c-2d-2h-3h inv cu 5cupe
+2c-2d-2h-3d/s nat gf
+
+-> 3c: inv fara cupe, + fit
+continuari: stopuri pe gura daca nu pasez
+
+2c-2d-2s ->
+2n numai inv
+3c numai inv, +fit, stopuri pe gura daca nu pasez
+3d: setting gf cere 3h dupa care repondentul zice 3s/4c daca vrea
+3h: nat gf
+3s: fit inv
+3n: de joc
+4c: KC
+
+2c-2d-2n ->
+3c e inv
+3d: gf puppet la 3h sa setez un atu 
+3h/s: nat inv
+4c KC???
+
+2c-2d-3c:
+3d: stopuri pe gura
+3h/s game forcing
+4c KC???
+
+secvente in rest: improvizam ar fi o idee pe 2c-2d-3h/s/n
+
+gen 2c-2d-3h-3s- setez cupa
+2c-2d-3s aici e cam nasol ca 4c/d e natural si sa setez pica nu ma ajuta sa zic 4h daca nu cuebidam pe nivel de 5
+2c-2d-3n 4d/h setez cupa/pica 

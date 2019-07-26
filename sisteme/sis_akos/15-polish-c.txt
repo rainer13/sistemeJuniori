@@ -1,0 +1,49 @@
+1c: 15+bal sau 15+ nebal cu trefle sau oarecare 18+ (fara 4414 din zona 11-14)
+
+raspunsuri:
+1d:6-9 bal, sau monocolor de caro, sau orice din zonele 0-5 sau 13+
+1h:(6)7+p 4+ pici
+1s:(6)7+p 4+ cupe
+
+probabil are sens sa jucam cu switch pe majore, daca avem chef
+
+-1n/2c nu imi e clar ce ar fi bine 
+ca o idee 
+1n: nebal cu 4+ trefle(poate sa fie mana utila fata de trefle), posibil monocolor (nu 5332) maxim 12p
+2c:10-12 balansat fara 4M, sau 10+ cu carale GF ca sa acoperim mainile
+
+2d/h: transfer gen 5-7 , majora in 6 sau, 10-12 si majora 5+ nebalansat
+
+peste 2s??? am putea sa jucam 2s/n 5-5 minor 10-12gf dar in rest nu prea are sens nimic
+ce maini cred ca am putea sa bagam: 55minor3-0 si 6D4C 6-9/10-12 dar oricum vom fi cam sus sa conversam
+
+continuari:
+1c-1d reanunturile deschidentului la fel cum am jucat pana acum 1M poate sa fie 15-17 bal
+1c-1d-1M-2c GF 13+
+1c-1d-1n/2n- sistem nt tare on
+1c-1d-2c-2dforcing (/gf?/13+?) cu raspunsuri simetrice cu 2c-2d 18+ va fi "maximal" sa zicem
+1c-1d-2c: 2M nat f1, 3d 6-8 monocolor de caro mai nefolositor
+1c-1d-2M-2n sa fie forcing posibil cu 13+
+
+1c-1M-2c: propun sa jucam 2d releu pentru 3 carti pe majora reala
+1c-1M-1n(15-17): retransfer, 2c staymanish 2d: nu am , 2M reala am fit de 3, 2M* am 4 carti acolo,  totul on, garbage, smolen etc ca sa nu ne complicam
+ 
+1c-1n:
+accept 2c/3c: 15-17
+2n 18+ nt right siding
+2M natural 18+
+3d natural
+2d releu 18+ raspundem: 2H numai trefle minimal, 2s: caro mai lung decat 4+ trefle, 2n 10+ numai trefle, 3c numai trefle dar multe, 6+ sa zicem, 3d: 6c+4D 10-12, (toate 10-12 de aici) 3h 5c+4d+ 3s 1-h, 3s 5+c 4d+ 3+h 1-s
+dupa 1c-1n-2d-2s (defapt am mai multe carale 2n releu simetric cu cel din mai sus, cu diferentele: 3c minimal, 3d 6d+4c maximal 10-12)
+
+dupa 1c-2c:
+2d releu
+2n:????
+3n: sign-off
+2M: natural
+3c/d natural
+
+dupa 2d releu: 3h/3s: 44m3M, 2n: 6+D 10-12, 3c/d: 5minora aia 332, 3h:4c333, 3s:4d333
+
+propuneri: sa am 4414 in 1n slab, sau sau altceva in afara de 1c, eventual: 2d multi 2h tricolor scurt caro (si aici daca vrei pot sa bag maini fara 5c frumoase, cu 5c mai frumoase deschid 2c)
+pe 1n slab putem jucam asa: 2c: stayman, nu promit majora in 4, 2d/h transfer, 2:s stayman minor, 2n: o minora lunga, invitational (3c nu accept trefle, 3d accept trefle carale nu, 3M/3n accept ambele si am valuri aici) alte licitatii level bids, poate mai putin 4c gerber pentru ca nu pot sa setez o minra pentru KC  
